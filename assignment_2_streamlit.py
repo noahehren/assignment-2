@@ -55,7 +55,7 @@ else:
     df_unclean = pd.read_csv('video_game_sales_train.csv')
     st.markdown('**Unclean data**')
     st.dataframe(df_unclean.head())
-    df = pd.read_csv('video_game_Sales.csv')
+    df = pd.read_csv('video_game_sales.csv')
     st.markdown('**Clean data**')
     st.dataframe(df.head())
     st.subheader("Exploratory Analysis")
