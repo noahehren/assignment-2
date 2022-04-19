@@ -1,0 +1,1217 @@
+Platform,Genre,Publisher,Critic_Score,Critic_Count,User_Score,User_Count,Developer,Rating,Predicted_Sales
+PC,Action,Activision,71.0,11.0,7.8,12.0,Beenox,E10+,Very Low
+PC,Sports,Electronic Arts,83.0,16.0,7.7,102.0,EA Sports,E,Very Low
+PC,Sports,Electronic Arts,72.0,14.0,3.8,59.0,EA Sports,E,Very Low
+Wii,Racing,Capcom,44.0,10.0,5.4,11.0,Milestone S.r.l,E,High
+PS2,Racing,Electronic Arts,68.0,26.0,8.9,16.0,EA Tiburon,E,High
+PSV,Misc,Sega,81.0,10.0,8,90.0,Sega,T,High
+PC,Strategy,THQ,93.0,55.0,8.8,1128.0,Relic,M,Very Low
+PSP,Platform,Konami Digital Entertainment,68.0,34.0,7.3,9.0,Backbone Entertainment,T,High
+PS4,Strategy,Take-Two Interactive,88.0,28.0,8,116.0,Firaxis Games,T,High
+Wii,Shooter,Sega,64.0,51.0,7.6,60.0,High Voltage Software,T,High
+GC,Sports,Electronic Arts,75.0,4.0,7,7.0,EA Tiburon,E,Very High
+PC,Action,Electronic Arts,63.0,11.0,7.1,34.0,EA Games,E10+,Very Low
+X360,Racing,Codemasters,79.0,29.0,6.6,33.0,Codemasters,E,Low
+PSV,Action,Tecmo Koei,71.0,44.0,8,136.0,Omega Force,T,High
+PC,Action,Ubisoft,83.0,20.0,5.2,672.0,Ubisoft Montreal,M,Very Low
+PSP,Sports,Electronic Arts,53.0,4.0,5.5,6.0,Exient Entertainment,E,Very High
+Wii,Fighting,Sega,45.0,38.0,6.9,11.0,High Voltage Software,T,High
+3DS,Action,Warner Bros. Interactive Entertainment,60.0,4.0,7.1,15.0,TT Games,E10+,Very Low
+PC,Racing,Codemasters,78.0,35.0,6.2,257.0,Codemasters,E,Very Low
+WiiU,Sports,Take-Two Interactive,85.0,17.0,7,43.0,Visual Concepts,E,Low
+PS2,Platform,Sega,53.0,32.0,6.7,10.0,TT Games,E,High
+XB,Sports,Electronic Arts,63.0,30.0,7.1,9.0,EA Canada,E,Very High
+PS3,Action,Ubisoft,67.0,21.0,6.8,29.0,Ubisoft,M,Very Low
+PS3,Action,Sony Computer Entertainment,78.0,42.0,8.1,87.0,SCE Japan Studio,M,Very High
+PS3,Action,Capcom,75.0,31.0,7.4,135.0,WayForward,E,Very High
+PS4,Fighting,Deep Silver,79.0,54.0,8.7,208.0,SNK Playmore,T,High
+PC,Action,Ubisoft,75.0,16.0,6.6,218.0,Ubisoft Montreal,T,Very Low
+PC,Shooter,Activision,83.0,36.0,7.5,721.0,Treyarch,M,Very Low
+3DS,Action,Ubisoft,56.0,8.0,5.7,12.0,Ubisoft Montpellier,E10+,Very Low
+PC,Simulation,Electronic Arts,70.0,12.0,6.4,8.0,EA Redwood Shores,E,High
+PC,Action,Electronic Arts,86.0,28.0,8,1093.0,EA Redwood Shores,M,Very Low
+PS4,Action,Square Enix,86.0,20.0,7.6,225.0,Square Enix,T,High
+PC,Shooter,THQ,75.0,29.0,6.7,273.0,Volition Inc.,M,Very Low
+PS4,Role-Playing,Ubisoft,82.0,46.0,8,451.0,Ubisoft Montreal,E10+,High
+PSV,Role-Playing,Square Enix,77.0,5.0,8.6,46.0,Square Enix,E10+,Very Low
+PC,Sports,Electronic Arts,77.0,15.0,6.8,36.0,EA Canada,E,Low
+PC,Simulation,Electronic Arts,72.0,16.0,7.3,117.0,Maxis,T,Very Low
+PC,Shooter,Sega,81.0,41.0,8.4,1588.0,Creative Assembly,M,Very Low
+X360,Simulation,Ubisoft,64.0,22.0,7.7,38.0,From Software,T,Low
+PSP,Role-Playing,Nippon Ichi Software,41.0,19.0,5.3,37.0,Gust,E10+,Very Low
+DS,Shooter,Eidos Interactive,72.0,11.0,6.4,15.0,Amaze Entertainment,T,High
+X360,Action,Square Enix,69.0,14.0,7.2,45.0,Io Interactive,M,Very Low
+X360,Shooter,Eidos Interactive,59.0,26.0,5.9,22.0,Traveller's Tales,E10+,Very Low
+PC,Strategy,THQ,80.0,82.0,2.1,6157.0,Relic,M,Very Low
+WiiU,Action,Tecmo Koei,64.0,18.0,7.4,31.0,Omega Force,T,Very Low
+PS3,Action,Tecmo Koei,64.0,11.0,7.8,9.0,Omega Force,T,Very Low
+PSV,Platform,Nippon Ichi Software,58.0,16.0,7.7,23.0,Nippon Ichi Software,T,Low
+PS3,Action,Sony Computer Entertainment,77.0,33.0,6.9,30.0,SCE Japan Studio,E10+,Very Low
+PC,Sports,Take-Two Interactive,90.0,5.0,6.8,130.0,Visual Concepts,E,Very Low
+PSV,Misc,Ubisoft,57.0,27.0,5.8,19.0,Ubisoft,E10+,Very Low
+PSV,Action,Namco Bandai Games,57.0,25.0,7.3,15.0,Bandai Namco Games,E10+,Very Low
+Wii,Action,Capcom,65.0,18.0,8.8,13.0,Capcom,T,Low
+GBA,Sports,Electronic Arts,68.0,4.0,9.3,4.0,Exient Entertainment,E,Very High
+DS,Role-Playing,Sega,75.0,46.0,9,61.0,PlatinumGames,T,High
+PS3,Role-Playing,Nippon Ichi Software,65.0,20.0,7.3,23.0,Nippon Ichi Software,T,Low
+PSP,Platform,Activision,52.0,7.0,7.4,9.0,Treyarch,T,High
+PSP,Shooter,Activision,63.0,36.0,7,12.0,Rebellion,M,Low
+PSP,Racing,Sony Computer Entertainment,69.0,18.0,7.1,7.0,Namco Bandai Games,E,High
+PS4,Shooter,Capcom,60.0,19.0,6.7,94.0,Capcom,M,Very High
+PS3,Action,Tecmo Koei,64.0,35.0,7.5,25.0,Omega Force,T,Very Low
+PC,Action,Activision,57.0,9.0,5.3,11.0,Beenox,E10+,Very Low
+PC,Action,Activision,86.0,20.0,8.2,64.0,Traveller's Tales,E10+,Very Low
+PC,Role-Playing,Namco Bandai Games,89.0,56.0,8.6,1848.0,From Software,M,Very Low
+PS4,Action,Activision,44.0,49.0,5.5,163.0,PlatinumGames,T,High
+PS4,Action,Tecmo Koei,67.0,40.0,7.6,71.0,Gust,T,High
+PC,Shooter,Electronic Arts,80.0,48.0,6.8,326.0,EA DICE,T,Very Low
+PC,Shooter,Electronic Arts,71.0,31.0,3.8,773.0,Visceral Games,M,Very Low
+PS3,Adventure,Ubisoft,50.0,4.0,4,4.0,Ubisoft,T,Very Low
+PC,Strategy,Sega,88.0,39.0,8.9,648.0,Creative Assembly,T,Very Low
+PS3,Shooter,Codemasters,67.0,36.0,6.3,18.0,Codemasters,M,Low
+PS2,Sports,Sony Computer Entertainment,63.0,24.0,6.8,5.0,SCEA,E,Low
+DS,Misc,MTV Games,79.0,8.0,5.5,6.0,Backbone Entertainment,E10+,High
+XOne,Strategy,Take-Two Interactive,87.0,17.0,8.1,40.0,Firaxis Games,T,Low
+DS,Sports,Electronic Arts,71.0,7.0,7.2,6.0,EA Canada,E,Very High
+PC,Simulation,Electronic Arts,77.0,10.0,5.7,30.0,Maxis,T,Low
+PC,Sports,Electronic Arts,87.0,6.0,4.6,441.0,EA Canada,E,Very Low
+X360,Shooter,Eidos Interactive,30.0,21.0,5.9,33.0,Rebellion,M,Low
+PSV,Action,Ubisoft,49.0,34.0,6.4,61.0,Ubisoft,T,High
+XB,Racing,Codemasters,84.0,25.0,8,6.0,Codemasters,E10+,High
+3DS,Racing,Codemasters,59.0,15.0,6.8,13.0,Codemasters,E,Low
+Wii,Strategy,THQ,64.0,26.0,4.3,13.0,Team 17,E10+,Very High
+GBA,Action,LucasArts,55.0,5.0,7,6.0,Amaze Entertainment,E,Very High
+GBA,Role-Playing,Nintendo,92.0,25.0,8.4,190.0,TOSE,E10+,High
+PSV,Action,Electronic Arts,57.0,9.0,4.1,89.0,Electronic Arts,E,Very High
+3DS,Action,Namco Bandai Games,26.0,10.0,2.4,22.0,Bandai Namco Games,E10+,Very Low
+Wii,Shooter,Eidos Interactive,52.0,7.0,5.8,5.0,Traveller's Tales,E10+,High
+WiiU,Action,Capcom,80.0,19.0,7.5,146.0,Capcom,M,Very High
+PSV,Action,Sony Computer Entertainment,82.0,24.0,8.4,125.0,SCE Japan Studio,M,Very High
+XB,Shooter,Eidos Interactive,71.0,37.0,8.5,11.0,Rebellion,T,High
+PC,Sports,Electronic Arts,81.0,10.0,4.4,296.0,EA Sports,E,Very Low
+PS3,Action,THQ,70.0,4.0,7,4.0,THQ,E10+,Very Low
+PS4,Misc,Sega,78.0,22.0,7.4,41.0,Sega,T,Low
+PC,Strategy,THQ,87.0,36.0,8.6,235.0,Relic,M,Very Low
+PS2,Simulation,Konami Digital Entertainment,67.0,30.0,8.9,11.0,Konami,E10+,High
+X360,Action,Warner Bros. Interactive Entertainment,59.0,17.0,7.2,23.0,Double Helix Games,T,Very Low
+Wii,Action,Activision,62.0,9.0,5.2,6.0,Beenox,T,High
+XOne,Racing,Namco Bandai Games,74.0,5.0,8.1,7.0,Milestone S.r.l,E,High
+XB,Shooter,Ubisoft,78.0,15.0,6.3,32.0,Ubisoft Montreal,M,Low
+XOne,Racing,Codemasters,86.0,17.0,8,60.0,Codemasters,E,Very High
+PSP,Adventure,Nippon Ichi Software,64.0,15.0,4.4,40.0,Nippon Ichi Software,T,Low
+PC,Racing,Codemasters,86.0,33.0,8.7,288.0,Codemasters,E,Very Low
+DS,Role-Playing,Nippon Ichi Software,67.0,24.0,6.8,12.0,Nippon Ichi Software,E,Low
+PS2,Sports,Konami Digital Entertainment,82.0,10.0,7.9,38.0,Konami,E,Low
+PC,Sports,Electronic Arts,82.0,9.0,4.2,383.0,EA Sports,E,Very Low
+PC,Racing,Codemasters,62.0,8.0,5.4,46.0,Codemasters,E,Low
+PSV,Role-Playing,Ubisoft,83.0,14.0,7.8,108.0,Ubisoft Montreal,E10+,High
+PS3,Shooter,Konami Digital Entertainment,50.0,32.0,4.7,47.0,Rebellion,M,Low
+DS,Strategy,THQ,57.0,21.0,7.9,16.0,THQ,T,High
+X360,Fighting,Capcom,79.0,44.0,6.2,85.0,Capcom,T,High
+PS3,Role-Playing,Tecmo Koei,70.0,17.0,6.6,120.0,Gust,T,Very High
+DS,Action,Ubisoft,64.0,24.0,6,9.0,Ubisoft,E,Very High
+PS2,Action,Tecmo Koei,52.0,9.0,8.5,13.0,Omega Force,T,Low
+PS3,Fighting,Namco Bandai Games,71.0,53.0,8.3,55.0,CyberConnect2,T,Very High
+PC,Action,Square Enix,86.0,14.0,7.7,255.0,Square Enix,T,Very Low
+X360,Shooter,Konami Digital Entertainment,52.0,46.0,5.5,65.0,Rebellion,M,Very Low
+PS4,Action,Capcom,78.0,6.0,6.6,30.0,Capcom,M,Very Low
+PS3,Action,Tecmo Koei,68.0,4.0,6.8,9.0,Omega Force,T,Very Low
+X360,Sports,Sega,80.0,34.0,6.8,26.0,Sumo Digital,E,Low
+PS3,Fighting,Atlus,84.0,38.0,8.1,85.0,Arc System Works,T,Very High
+PS3,Action,Konami Digital Entertainment,78.0,39.0,4.1,303.0,Konami,E,Very Low
+PC,Shooter,Ubisoft,78.0,20.0,7.3,185.0,Ubisoft Montreal,M,Very Low
+PS3,Adventure,Codemasters,17.0,11.0,1.7,37.0,Team 17,M,Low
+PC,Sports,Sega,66.0,5.0,7.3,43.0,Sega,E,Low
+PS3,Action,Sony Computer Entertainment,36.0,45.0,3.7,21.0,SCE Japan Studio,E10+,Very Low
+PC,Action,Electronic Arts,54.0,7.0,6.8,9.0,EA Bright Light,E,Very High
+PS4,Action,Tecmo Koei,69.0,43.0,6.6,23.0,Omega Force,T,Very Low
+PS2,Action,Activision,65.0,11.0,7.5,4.0,Beenox,E,Very High
+DS,Adventure,Konami Digital Entertainment,75.0,15.0,8.3,4.0,Konami,E,Very Low
+PC,Sports,Konami Digital Entertainment,80.0,8.0,6.9,182.0,Konami,E,Very Low
+PC,Action,Warner Bros. Interactive Entertainment,68.0,7.0,6.8,33.0,TT Games,E10+,Very Low
+PS3,Role-Playing,Tecmo Koei,76.0,26.0,7.7,44.0,Gust,E10+,Very Low
+PS2,Action,Take-Two Interactive,54.0,43.0,8,24.0,Double Helix Games,T,Low
+PC,Strategy,Sega,42.0,15.0,4.9,22.0,Creative Assembly,M,Low
+XB,Racing,Electronic Arts,72.0,26.0,7,4.0,EA Tiburon,E,High
+PS2,Action,Capcom,43.0,36.0,6.2,11.0,Capcom,M,Low
+PC,Sports,Take-Two Interactive,90.0,6.0,6.3,52.0,Visual Concepts,E,Very Low
+PS3,Shooter,Eidos Interactive,35.0,18.0,4.8,27.0,Rebellion,M,Low
+PS3,Racing,Codemasters,75.0,35.0,6.8,62.0,Codemasters,E,Very High
+PSP,Role-Playing,Nippon Ichi Software,65.0,16.0,7.3,11.0,Nippon Ichi Software,T,High
+PSV,Adventure,Sony Computer Entertainment,66.0,7.0,5.7,16.0,SCEA,E10+,Very Low
+XOne,Action,Activision,56.0,4.0,3.1,14.0,Radical Entertainment,M,Very Low
+PSP,Racing,Sega,82.0,31.0,8.1,14.0,Sumo Digital,E,High
+PSV,Platform,Ubisoft,87.0,8.0,8.4,159.0,Ubisoft Montpellier,E10+,Very High
+PSV,Misc,Sega,83.0,5.0,8,22.0,Sega,T,Low
+PC,Action,Capcom,66.0,6.0,7.6,152.0,WayForward,E,Very Low
+PS2,Action,Tecmo Koei,55.0,20.0,7.3,7.0,Omega Force,T,Low
+PC,Sports,Konami Digital Entertainment,76.0,12.0,4.3,286.0,Konami,E,Very Low
+PC,Strategy,THQ,85.0,67.0,8.1,1502.0,Relic,M,Very Low
+PSP,Sports,Electronic Arts,58.0,6.0,6.9,17.0,EA Canada,E,High
+PS3,Strategy,Sony Computer Entertainment,76.0,9.0,6.9,18.0,Team 17,E10+,Very Low
+PC,Simulation,Sega,81.0,34.0,6.9,97.0,Sega,E,Very Low
+PSV,Fighting,Sega,75.0,7.0,8.5,28.0,Sega,T,Low
+PC,Action,Eidos Interactive,82.0,35.0,8.8,528.0,Io Interactive,M,Very Low
+PC,Action,Capcom,86.0,30.0,7.1,597.0,Capcom,M,Very Low
+PSP,Platform,Sega,56.0,23.0,5.9,7.0,TT Games,E,High
+PC,Action,Eidos Interactive,74.0,14.0,8.3,78.0,Io Interactive,E10+,Very Low
+PC,Action,Ubisoft,52.0,22.0,6,38.0,Ubisoft Montreal,T,Very Low
+PC,Role-Playing,Ubisoft,85.0,48.0,8.6,1739.0,Obsidian Entertainment,M,Very Low
+GBA,Action,Activision,55.0,9.0,9.3,6.0,WayForward,E10+,Very Low
+PSP,Misc,Konami Digital Entertainment,60.0,17.0,6.8,6.0,Konami,E,High
+PS3,Action,Namco Bandai Games,71.0,35.0,7.8,61.0,Omega Force,T,Very High
+XB,Action,Take-Two Interactive,52.0,34.0,2.8,5.0,Double Helix Games,T,Very Low
+PS4,Action,Tecmo Koei,63.0,30.0,7.5,42.0,Omega Force,T,Very Low
+PC,Action,Warner Bros. Interactive Entertainment,80.0,15.0,7.8,61.0,Traveller's Tales,E10+,Very Low
+PS4,Sports,Konami Digital Entertainment,72.0,7.0,6.6,8.0,Konami,E,Very Low
+PS2,Sports,Electronic Arts,70.0,6.0,7.8,27.0,EA Canada,E,High
+PC,Strategy,Sega,90.0,62.0,6.9,2981.0,Creative Assembly,T,Very Low
+WiiU,Action,Capcom,76.0,10.0,7.9,100.0,WayForward,E,Very High
+PC,Shooter,Square Enix,63.0,13.0,5.1,48.0,Double Helix Games,T,Low
+GC,Action,Eidos Interactive,78.0,6.0,7.8,8.0,Crystal Dynamics,T,Very Low
+PSV,Role-Playing,Namco Bandai Games,72.0,14.0,8.1,25.0,Bandai Namco Games,T,Low
+X360,Racing,Codemasters,75.0,15.0,6,56.0,Codemasters,E,Very High
+PSP,Sports,Sony Computer Entertainment,69.0,13.0,3,13.0,SCEA San Diego Studios,E,Low
+PC,Role-Playing,Electronic Arts,91.0,67.0,8.6,3542.0,BioWare,M,Very Low
+PC,Shooter,Ubisoft,51.0,12.0,3.3,126.0,Ubisoft,M,Very Low
+X360,Action,Tecmo Koei,53.0,29.0,8.5,13.0,Omega Force,T,Low
+PS2,Role-Playing,Sega,68.0,18.0,8.5,23.0,Sonic Team,T,Low
+PC,Action,Ubisoft,86.0,22.0,6.9,1611.0,Ubisoft Montreal,M,Very Low
+PSP,Action,Ubisoft,68.0,18.0,7.4,18.0,From Software,M,Very Low
+PS3,Sports,Konami Digital Entertainment,74.0,19.0,6.1,47.0,Konami,E,Low
+PC,Racing,Codemasters,61.0,13.0,3.6,63.0,Codemasters,E,Very Low
+Wii,Platform,Ubisoft,49.0,5.0,5.6,7.0,Ubisoft,E10+,High
+PC,Racing,Codemasters,83.0,10.0,7.2,83.0,Codemasters,E,Very Low
+PS3,Role-Playing,Nippon Ichi Software,53.0,44.0,7.5,80.0,Nippon Ichi Software,T,Very High
+PC,Action,Activision,76.0,12.0,6.4,389.0,Radical Entertainment,M,Very Low
+PS2,Racing,Codemasters,82.0,26.0,7.2,15.0,Codemasters,E10+,Very Low
+PC,Action,Electronic Arts,64.0,14.0,6.1,35.0,EA Bright Light,E10+,Very Low
+PC,Shooter,Activision,73.0,16.0,3,440.0,Infinity Ward,M,Very Low
+PC,Shooter,Take-Two Interactive,81.0,37.0,7.8,1363.0,Gearbox Software,M,Very Low
+PSV,Racing,Codemasters,66.0,27.0,6.2,25.0,Codemasters,E,Low
+PS2,Sports,Konami Digital Entertainment,80.0,10.0,8.8,11.0,Konami,E,Very Low
+XOne,Sports,Konami Digital Entertainment,85.0,14.0,6.2,144.0,Konami,E,Very Low
+PSP,Action,Electronic Arts,61.0,33.0,6.9,12.0,Rebellion,T,Very Low
+PC,Role-Playing,Square Enix,66.0,23.0,8.3,240.0,Square Enix,M,Very Low
+PC,Platform,Activision,62.0,16.0,7.1,29.0,Beenox,T,Low
+PSP,Sports,Sega,79.0,17.0,7.7,13.0,Sumo Digital,E,Low
+PS3,Racing,Codemasters,75.0,27.0,6.3,43.0,Codemasters,E10+,Very Low
+PS4,Role-Playing,Namco Bandai Games,69.0,32.0,7.7,52.0,Bandai Namco Games,T,High
+XB,Sports,Electronic Arts,75.0,14.0,7.7,6.0,EA Sports,E10+,Very High
+PC,Action,Warner Bros. Interactive Entertainment,79.0,15.0,7.9,55.0,Traveller's Tales,E10+,Very Low
+PSP,Misc,Sony Computer Entertainment,81.0,49.0,8.3,62.0,SCE Japan Studio,E,Very High
+XB,Sports,Electronic Arts,82.0,4.0,8.1,8.0,EA Sports,E,Very High
+PC,Shooter,Codemasters,67.0,25.0,4.9,103.0,Codemasters,M,Very Low
+XOne,Action,Tecmo Koei,48.0,6.0,7.1,8.0,Omega Force,T,Very Low
+PSP,Racing,Ubisoft,57.0,28.0,7.9,18.0,Sumo Digital,M,Low
+3DS,Action,Sega,51.0,9.0,5,6.0,High Voltage Software,T,Very Low
+PSV,Adventure,Warner Bros. Interactive Entertainment,64.0,5.0,6.6,8.0,TT Games,E10+,Very Low
+PS2,Racing,Sega,81.0,42.0,8.8,17.0,Sumo Digital,E,High
+PC,Shooter,Capcom,63.0,15.0,6.3,87.0,Capcom,T,Very Low
+PC,Racing,Codemasters,80.0,15.0,6.9,115.0,Codemasters,E,Very Low
+GBA,Role-Playing,Nintendo,83.0,25.0,7.2,75.0,TOSE,E,High
+PC,Action,Ubisoft,74.0,18.0,4.8,368.0,Ubisoft Montreal,M,Very Low
+PC,Sports,Konami Digital Entertainment,78.0,8.0,6.9,49.0,Konami,E,Low
+PS4,Action,Ubisoft,72.0,32.0,7.4,49.0,Ubisoft Montreal,M,Very Low
+WiiU,Action,Warner Bros. Interactive Entertainment,77.0,7.0,7.3,31.0,TT Games,E10+,Very Low
+PSV,Action,Namco Bandai Games,76.0,4.0,6.3,17.0,Omega Force,T,Very Low
+PC,Fighting,Capcom,74.0,33.0,2.9,431.0,Capcom,T,Very Low
+PS4,Fighting,Namco Bandai Games,61.0,35.0,7.4,44.0,CyberConnect2,T,Low
+PS4,Racing,Codemasters,85.0,46.0,8.1,196.0,Codemasters,E,Very High
+PC,Sports,Electronic Arts,77.0,7.0,6.1,50.0,EA Canada,E,Low
+PS2,Sports,Electronic Arts,74.0,21.0,7.4,25.0,EA Canada,E,High
+PC,Racing,Codemasters,89.0,22.0,8.2,352.0,Codemasters,T,Very Low
+Wii,Sports,Take-Two Interactive,65.0,11.0,5.4,19.0,Visual Concepts,E10+,Very High
+GBA,Action,Eidos Interactive,72.0,8.0,7.4,7.0,WayForward,E10+,Very Low
+PS3,Racing,Codemasters,61.0,27.0,5.6,34.0,Codemasters,E,Low
+XOne,Sports,Konami Digital Entertainment,87.0,12.0,6.1,84.0,Konami,E,Very Low
+PC,Role-Playing,Electronic Arts,65.0,52.0,6,133.0,Maxis,T,Very Low
+3DS,Action,Tecmo Koei,63.0,13.0,6.1,10.0,Omega Force,T,Very Low
+DS,Strategy,THQ,64.0,24.0,7,16.0,Team 17,E10+,Very Low
+X360,Misc,THQ,60.0,16.0,7,7.0,Eurocom Entertainment Software,E10+,High
+DS,Strategy,Square Enix,72.0,19.0,8.9,9.0,Square Enix,E10+,High
+XOne,Shooter,Capcom,63.0,12.0,6.3,34.0,Capcom,M,Low
+X360,Misc,THQ,54.0,5.0,5.7,6.0,THQ,E,High
+PC,Racing,Codemasters,84.0,16.0,7.8,53.0,Codemasters,E10+,Very Low
+X360,Action,Warner Bros. Interactive Entertainment,60.0,13.0,8,5.0,Krome Studios,E10+,Low
+X360,Fighting,Konami Digital Entertainment,62.0,54.0,6.6,28.0,Konami,M,Low
+WiiU,Action,Warner Bros. Interactive Entertainment,74.0,6.0,8,11.0,TT Games,E10+,Very Low
+DS,Role-Playing,Konami Digital Entertainment,69.0,13.0,7.6,9.0,Konami,E10+,High
+PSV,Puzzle,Namco Bandai Games,69.0,41.0,7.4,51.0,Bandai Namco Games,E10+,Very Low
+PC,Action,Vivendi Games,73.0,18.0,7.5,57.0,Radical Entertainment,M,Very Low
+PSV,Action,Tecmo Koei,76.0,5.0,8.6,18.0,Omega Force,T,Very Low
+PS2,Shooter,Eidos Interactive,71.0,37.0,8.2,9.0,Rebellion,T,High
+X360,Action,Namco Bandai Games,49.0,30.0,7,18.0,Omega Force,T,Very Low
+PC,Shooter,Activision,92.0,40.0,8.5,2360.0,Infinity Ward,M,Very Low
+XOne,Action,Deep Silver,65.0,16.0,6,27.0,Volition Inc.,M,Very Low
+XOne,Sports,Konami Digital Entertainment,79.0,9.0,7.3,65.0,Konami,E,Very Low
+PS2,Action,Tecmo Koei,58.0,26.0,8.8,13.0,Omega Force,T,Low
+PSV,Fighting,Namco Bandai Games,74.0,5.0,7.9,29.0,Bandai Namco Games,T,Low
+PC,Action,Konami Digital Entertainment,74.0,9.0,4.4,239.0,Konami,E,Very Low
+PS2,Sports,Konami Digital Entertainment,67.0,9.0,8.5,8.0,Konami,E,Very Low
+GBA,Adventure,THQ,69.0,10.0,9,4.0,Artificial Mind and Movement,E,Very Low
+3DS,Action,Electronic Arts,68.0,4.0,3.7,16.0,Electronic Arts,E,Very High
+PS3,Racing,Capcom,65.0,21.0,6,9.0,Milestone S.r.l,E,High
+PC,Racing,Electronic Arts,70.0,18.0,5.9,163.0,EA Games,E10+,Very Low
+PS2,Shooter,Electronic Arts,63.0,29.0,6.1,34.0,Electronic Arts,T,Low
+PC,Action,Activision,74.0,9.0,7.6,56.0,PlatinumGames,T,Very Low
+PS3,Racing,Codemasters,82.0,20.0,6.6,173.0,Codemasters,E,Very High
+PC,Action,Electronic Arts,86.0,7.0,6.6,286.0,Electronic Arts,E,Very Low
+PC,Role-Playing,Sega,72.0,25.0,7.5,511.0,Obsidian Entertainment,M,Very Low
+PC,Role-Playing,Electronic Arts,94.0,55.0,8.8,3559.0,BioWare,M,Very Low
+PSP,Action,Konami Digital Entertainment,42.0,14.0,7.1,13.0,Krome Studios,T,Very Low
+PC,Strategy,Sega,81.0,56.0,7.9,515.0,Creative Assembly,T,Very Low
+PC,Shooter,Electronic Arts,78.0,38.0,7.3,204.0,Electronic Arts,T,Very Low
+PS4,Action,Tecmo Koei,71.0,29.0,6.5,15.0,Omega Force,T,Very Low
+PC,Platform,Electronic Arts,74.0,24.0,4.4,606.0,EA DICE,T,Very Low
+X360,Action,Konami Digital Entertainment,80.0,23.0,4.3,113.0,Konami,E,Very Low
+PC,Action,Warner Bros. Interactive Entertainment,80.0,6.0,8.2,127.0,TT Games,E10+,Very Low
+PC,Fighting,Warner Bros. Interactive Entertainment,76.0,10.0,5.1,475.0,High Voltage Software,M,Very Low
+PS4,Action,Tecmo Koei,73.0,26.0,7.3,24.0,Omega Force,T,Very Low
+PC,Strategy,THQ,70.0,42.0,7.2,204.0,Relic,M,Very Low
+WiiU,Platform,Ubisoft,42.0,5.0,5.6,21.0,WayForward,E,Low
+PC,Shooter,Ubisoft,79.0,22.0,7.9,130.0,Gearbox Software,M,Very Low
+GBA,Sports,Electronic Arts,57.0,4.0,6.9,7.0,EA Canada,E,Very High
+PS2,Role-Playing,Square Enix,87.0,4.0,7.1,13.0,Square Enix,T,Low
+PC,Simulation,Electronic Arts,76.0,23.0,7.7,40.0,Maxis,T,Low
+PC,Shooter,Codemasters,76.0,29.0,4.9,539.0,Codemasters,M,Very Low
+PC,Strategy,THQ,80.0,52.0,7.8,235.0,Relic,M,Very Low
+PC,Action,Konami Digital Entertainment,91.0,13.0,7.7,1963.0,Kojima Productions,M,Very Low
+PC,Racing,Codemasters,80.0,17.0,5.7,571.0,Codemasters,E,Very Low
+PSV,Role-Playing,Namco Bandai Games,60.0,5.0,7,8.0,Bandai Namco Games,T,High
+XOne,Action,Deep Silver,67.0,10.0,4.9,18.0,Techland,M,Very Low
+PC,Shooter,Ubisoft,72.0,25.0,7.8,223.0,Techland,M,Very Low
+PC,Action,Warner Bros. Interactive Entertainment,78.0,7.0,8.1,124.0,TT Games,E10+,Very Low
+XOne,Action,Capcom,75.0,22.0,7.5,106.0,Capcom,M,Very High
+PC,Role-Playing,Activision,91.0,47.0,7.5,930.0,Blizzard Entertainment,T,Very Low
+PSP,Misc,Konami Digital Entertainment,78.0,22.0,7.2,21.0,Kojima Productions,M,Low
+PS4,Action,Deep Silver,64.0,45.0,5.7,98.0,Volition Inc.,M,Very High
+PC,Platform,Sega,77.0,11.0,8.3,337.0,Sega,E,Very Low
+PC,Action,Warner Bros. Interactive Entertainment,72.0,8.0,7.1,31.0,TT Games,E10+,Very Low
+PC,Action,Konami Digital Entertainment,80.0,20.0,7.6,412.0,Kojima Productions,M,Very Low
+DS,Action,Electronic Arts,33.0,8.0,4.9,13.0,EA Tiburon,E,Very High
+PC,Simulation,Electronic Arts,75.0,10.0,7.7,19.0,Electronic Arts,T,Low
+X360,Racing,Codemasters,64.0,33.0,5.7,22.0,Codemasters,E,Low
+PSP,Platform,Tecmo Koei,72.0,45.0,7,41.0,Nippon Ichi Software,T,Low
+PSP,Action,Vivendi Games,49.0,34.0,5.6,19.0,Rebellion,T,Very Low
+XOne,Action,Activision,55.0,14.0,6,38.0,PlatinumGames,T,Very Low
+PSP,Racing,Codemasters,81.0,16.0,8.5,6.0,Sumo Digital,T,High
+PC,Action,Ubisoft,74.0,25.0,7.5,362.0,Ubisoft,M,Very Low
+PS2,Role-Playing,Nippon Ichi Software,69.0,20.0,7.5,41.0,Gust,E10+,Very Low
+X360,Action,Ubisoft,63.0,35.0,6.1,12.0,Ubisoft Montpellier,E10+,Low
+XB,Sports,Electronic Arts,69.0,14.0,6.8,13.0,EA Sports,E,Low
+PC,Shooter,Ubisoft,78.0,39.0,8,282.0,Techland,M,Very Low
+PS3,Fighting,Capcom,80.0,36.0,6.2,114.0,Capcom,T,Very High
+PC,Shooter,Sega,68.0,35.0,7.4,985.0,Rebellion,M,Very Low
+X360,Sports,Electronic Arts,68.0,21.0,5.4,9.0,EA Canada,E,Very High
+Wii,Action,THQ,63.0,5.0,8,5.0,THQ,E10+,High
+Wii,Action,Nintendo,55.0,26.0,7.2,22.0,Omega Force,T,High
+X360,Platform,Ubisoft,59.0,15.0,7.3,9.0,Ubisoft,E10+,High
+PSV,Racing,Sony Computer Entertainment,62.0,51.0,6.4,69.0,SCEA,E,Very High
+PS4,Action,Namco Bandai Games,74.0,34.0,7.4,118.0,Omega Force,T,High
+GC,Misc,Capcom,75.0,23.0,9.2,12.0,Capcom,E,Low
+PS3,Platform,Warner Bros. Interactive Entertainment,53.0,8.0,4.8,4.0,Griptonite Games,E10+,High
+XB,Sports,Electronic Arts,69.0,26.0,7.1,9.0,EA Tiburon,E,Very High
+PS3,Action,Konami Digital Entertainment,66.0,5.0,5.9,242.0,Kojima Productions,M,Very Low
+X360,Role-Playing,Ubisoft,69.0,54.0,6.9,60.0,From Software,T,High
+XOne,Action,Konami Digital Entertainment,76.0,13.0,5.4,348.0,Kojima Productions,M,Very Low
+X360,Action,Tecmo Koei,59.0,18.0,5.7,12.0,Omega Force,T,Low
+PS4,Misc,Ubisoft,73.0,10.0,6.8,20.0,Ubisoft,E10+,High
+X360,Action,Ubisoft,55.0,50.0,6.4,58.0,Ubisoft Montreal,T,High
+XB,Sports,Electronic Arts,77.0,22.0,8.4,9.0,EA Canada,E,Very High
+XOne,Action,Ubisoft,83.0,9.0,7.7,131.0,Ubisoft Montreal,M,Very High
+PS3,Role-Playing,Tecmo Koei,61.0,27.0,5.4,101.0,Gust,M,High
+PSP,Action,Take-Two Interactive,51.0,14.0,6.3,15.0,High Voltage Software,M,Very Low
+DS,Role-Playing,Atlus,80.0,26.0,8.7,69.0,Atlus,M,High
+WiiU,Shooter,Nintendo,69.0,82.0,7.4,662.0,PlatinumGames,E10+,Very High
+Wii,Action,Vivendi Games,71.0,23.0,8.4,29.0,Radical Entertainment,M,High
+PC,Shooter,Ubisoft,79.0,37.0,6.9,734.0,Ubisoft Montreal,M,Very Low
+X360,Strategy,Activision,59.0,3.0,5.6,25.0,Exient Entertainment,E,Low
+PS3,Misc,Sega,78.0,15.0,8.6,49.0,Sega,T,Low
+3DS,Puzzle,Nintendo,71.0,11.0,7.9,17.0,Nintendo,E,High
+Wii,Misc,Activision,50.0,12.0,5.2,6.0,Neversoft Entertainment,T,High
+PS3,Shooter,Ubisoft,45.0,42.0,5.5,74.0,Techland,M,Very High
+X360,Action,Tecmo Koei,61.0,40.0,8.2,19.0,Omega Force,T,Very Low
+X360,Action,Disney Interactive Studios,68.0,33.0,7,9.0,Eurocom Entertainment Software,E10+,Low
+PC,Role-Playing,Namco Bandai Games,91.0,36.0,7.1,2318.0,From Software,T,Very Low
+XOne,Sports,Electronic Arts,53.0,9.0,6.8,53.0,EA Sports,E,Very High
+X360,Action,Eidos Interactive,73.0,44.0,8.4,38.0,Io Interactive,E10+,Very Low
+Wii,Platform,Eidos Interactive,71.0,14.0,8.1,14.0,Backbone Entertainment,T,High
+X360,Simulation,Namco Bandai Games,68.0,37.0,7.2,37.0,From Software,T,Low
+Wii,Sports,Sega,73.0,33.0,7.7,21.0,Sumo Digital,E,Very High
+PS2,Action,THQ,56.0,12.0,8.6,17.0,Artificial Mind and Movement,E10+,Low
+3DS,Adventure,Warner Bros. Interactive Entertainment,65.0,5.0,3.6,7.0,TT Games,E10+,Very Low
+PS3,Sports,Electronic Arts,73.0,36.0,5.2,17.0,EA Sports,E,High
+PSP,Platform,Capcom,82.0,28.0,7.5,36.0,Capcom,E,Low
+PS3,Sports,Electronic Arts,76.0,36.0,6.4,66.0,EA Sports,E,Very High
+DS,Role-Playing,Square Enix,82.0,32.0,7.5,35.0,Nippon Ichi Software,T,Low
+X360,Racing,Capcom,68.0,20.0,5.6,12.0,Milestone S.r.l,E,Low
+Wii,Action,Konami Digital Entertainment,79.0,9.0,7,12.0,Konami,E,High
+PSP,Strategy,Vivendi Games,58.0,12.0,3.1,15.0,Radical Entertainment,M,High
+PSP,Platform,Sony Computer Entertainment,83.0,67.0,8.7,89.0,SCE Japan Studio,E,Very High
+PS3,Sports,Sony Computer Entertainment,66.0,14.0,8.1,23.0,SCEA,E10+,Very Low
+X360,Shooter,THQ,71.0,74.0,7,77.0,Volition Inc.,M,Very High
+DS,Role-Playing,Nintendo,76.0,40.0,7.9,23.0,CyberConnect2,E10+,Very Low
+PS3,Action,Electronic Arts,67.0,35.0,6.6,25.0,EA Games,E10+,Very Low
+PC,Action,Ubisoft,77.0,18.0,4.7,3288.0,Ubisoft Montreal,M,Very Low
+X360,Action,Eidos Interactive,77.0,33.0,8.3,39.0,Crystal Dynamics,T,Very Low
+WiiU,Action,Ubisoft,86.0,5.0,7.7,207.0,Ubisoft,M,Very High
+PSP,Sports,Sony Computer Entertainment,79.0,9.0,7.4,7.0,SCEA San Diego Studios,E,Low
+PS4,Role-Playing,Namco Bandai Games,72.0,59.0,6.8,315.0,Bandai Namco Games,T,High
+PS3,Sports,Sega,70.0,34.0,6.3,21.0,Sumo Digital,E,Low
+X360,Sports,Konami Digital Entertainment,82.0,33.0,6.9,77.0,Konami,E,Very Low
+Wii,Role-Playing,Nippon Ichi Software,76.0,12.0,7.1,15.0,Nippon Ichi Software,T,High
+X360,Fighting,Ubisoft,61.0,13.0,7.5,10.0,Ubisoft,E10+,High
+X360,Action,Activision,71.0,25.0,5.8,13.0,Beenox,E,Very High
+PC,Strategy,Take-Two Interactive,81.0,78.0,5.5,1027.0,Firaxis Games,E10+,Very Low
+WiiU,Action,Electronic Arts,69.0,28.0,6.2,49.0,Electronic Arts,E,Very High
+PS2,Action,Capcom,81.0,45.0,8.9,62.0,Capcom,M,Very High
+PSV,Sports,Sony Computer Entertainment,76.0,15.0,7.8,42.0,SCEA San Diego Studios,E,Low
+DS,Action,Electronic Arts,61.0,9.0,7.8,6.0,Artificial Mind and Movement,E10+,Very Low
+PS2,Action,Electronic Arts,61.0,17.0,8,28.0,EA Games,E10+,Low
+DS,Action,Activision,73.0,13.0,7,6.0,Griptonite Games,E10+,Very Low
+Wii,Action,Capcom,61.0,30.0,6.5,35.0,TOSE,M,Low
+X360,Sports,Ubisoft,61.0,34.0,5.3,7.0,Ubisoft Montreal,T,Very Low
+PS4,Action,Electronic Arts,61.0,33.0,3.7,78.0,EA Tiburon,E,Very High
+Wii,Adventure,Electronic Arts,77.0,38.0,8.5,48.0,EA Redwood Shores,M,Very High
+X360,Action,Sega,74.0,43.0,8,185.0,Sega,M,Very High
+PS3,Sports,Take-Two Interactive,82.0,18.0,5.2,6.0,Visual Concepts,E,Low
+PS3,Action,Tecmo Koei,58.0,23.0,7.9,28.0,Omega Force,T,Very Low
+PS3,Shooter,Square Enix,58.0,42.0,6,30.0,Double Helix Games,T,Low
+PS3,Action,Electronic Arts,43.0,21.0,5.7,27.0,EA Bright Light,T,Very Low
+Wii,Racing,Codemasters,51.0,10.0,5.5,22.0,Codemasters,E10+,Very High
+PSP,Sports,Sony Computer Entertainment,68.0,24.0,7,5.0,SCEA,E,Low
+PSP,Action,Ubisoft,37.0,7.0,4.1,12.0,Ubisoft Montreal,E10+,Very Low
+PS3,Action,Electronic Arts,38.0,27.0,2.8,23.0,EA Bright Light,T,Very Low
+PS4,Sports,Konami Digital Entertainment,87.0,54.0,7.1,680.0,Konami,E,Very Low
+X360,Shooter,Ubisoft,47.0,62.0,5.7,109.0,Techland,M,Very High
+PS3,Action,Sega,72.0,33.0,8.2,179.0,Sega,M,Very High
+X360,Action,THQ,55.0,10.0,6.3,6.0,THQ,E10+,Low
+PSP,Role-Playing,Square Enix,80.0,39.0,8.4,57.0,TOSE,T,High
+Wii,Action,Eidos Interactive,70.0,12.0,7.2,20.0,Crystal Dynamics,T,High
+X360,Action,Sega,73.0,38.0,7.9,105.0,PlatinumGames,M,Very High
+PS3,Strategy,Sega,51.0,28.0,5.3,20.0,Creative Assembly,M,Low
+Wii,Action,Vivendi Games,39.0,7.0,6.4,5.0,Eurocom Entertainment Software,T,High
+DS,Action,Activision,50.0,17.0,7.8,6.0,Amaze Entertainment,E10+,Very Low
+X360,Racing,Codemasters,75.0,53.0,6.4,53.0,Codemasters,E10+,Very High
+PSP,Adventure,Capcom,62.0,19.0,8,8.0,High Voltage Software,T,Very Low
+X360,Misc,Electronic Arts,66.0,18.0,6.6,16.0,Electronic Arts,E,High
+PS2,Action,Tecmo Koei,62.0,23.0,9.1,24.0,Omega Force,T,Low
+XOne,Strategy,Activision,53.0,4.0,6.9,63.0,Exient Entertainment,E,Very High
+X360,Action,Tecmo Koei,59.0,24.0,7.3,28.0,Omega Force,T,Very Low
+X360,Role-Playing,Square Enix,69.0,21.0,6.6,222.0,Square Enix,T,High
+X360,Sports,Sega,70.0,43.0,6.2,15.0,Sumo Digital,E,High
+XOne,Action,Electronic Arts,60.0,26.0,4.3,77.0,EA Tiburon,E,Very High
+PS2,Action,Vivendi Games,38.0,7.0,6.8,6.0,Eurocom Entertainment Software,T,Low
+PS3,Action,Sega,71.0,35.0,8.2,106.0,PlatinumGames,M,Very High
+PS4,Shooter,Take-Two Interactive,68.0,55.0,6.8,402.0,Gearbox Software,T,High
+X360,Action,Disney Interactive Studios,56.0,24.0,7.5,13.0,Traveller's Tales,T,Low
+Wii,Sports,Konami Digital Entertainment,82.0,13.0,8.4,17.0,Konami,E,High
+X360,Strategy,Sega,48.0,36.0,6.8,17.0,Creative Assembly,M,High
+X360,Sports,Electronic Arts,74.0,29.0,4.4,93.0,EA Canada,E,Very High
+X360,Misc,Namco Bandai Games,57.0,33.0,4.8,4.0,Namco Bandai Games,E,High
+PS4,Action,Capcom,75.0,30.0,7.7,284.0,Capcom,M,Very High
+X360,Action,Konami Digital Entertainment,69.0,17.0,5.6,98.0,Konami,M,Very Low
+PS3,Racing,Deep Silver,66.0,36.0,6.2,13.0,Techland,E10+,Very Low
+PSV,Sports,Electronic Arts,79.0,45.0,7.2,79.0,Electronic Arts,E,Very High
+XOne,Action,Warner Bros. Interactive Entertainment,76.0,11.0,7,18.0,TT Games,E10+,Very Low
+PS3,Misc,Activision,59.0,33.0,4.7,9.0,Neversoft Entertainment,T,High
+PS3,Sports,THQ,65.0,8.0,2.4,5.0,THQ,E,Low
+3DS,Action,Activision,50.0,7.0,6.4,12.0,Beenox,T,Very Low
+PSP,Adventure,Konami Digital Entertainment,54.0,6.0,8.2,5.0,Konami,T,Very Low
+PS3,Misc,Ubisoft,77.0,6.0,7.1,25.0,Ubisoft,E10+,Very Low
+PC,Action,Ubisoft,80.0,20.0,7.4,771.0,Ubisoft Montreal,M,Very Low
+PS3,Racing,Electronic Arts,57.0,21.0,5,14.0,EA Tiburon,E,High
+PS3,Sports,Sega,69.0,49.0,6.6,28.0,Sega,E,Low
+PC,Action,THQ,84.0,22.0,8.1,1263.0,Volition Inc.,M,Very Low
+PC,Shooter,THQ,74.0,34.0,7.4,596.0,Relic,M,Very Low
+PS3,Sports,Electronic Arts,73.0,33.0,4.3,87.0,EA Canada,E,Very High
+XOne,Shooter,Take-Two Interactive,71.0,20.0,7.2,171.0,Gearbox Software,T,High
+PS3,Racing,Codemasters,81.0,23.0,7.5,54.0,Codemasters,E,Very High
+DS,Role-Playing,Konami Digital Entertainment,76.0,24.0,7.4,37.0,Konami,E10+,Very Low
+PSP,Fighting,THQ,70.0,4.0,6.6,5.0,THQ,T,High
+PSP,Role-Playing,Tecmo Koei,87.0,37.0,8.2,69.0,Nippon Ichi Software,T,High
+PC,Shooter,Sega,45.0,40.0,3.5,1156.0,Gearbox Software,M,Very Low
+X360,Sports,Take-Two Interactive,81.0,21.0,6.9,16.0,Visual Concepts,E,High
+PS3,Sports,Ubisoft,61.0,26.0,6.5,8.0,Ubisoft Montreal,T,Very Low
+PS3,Action,Disney Interactive Studios,55.0,24.0,6.9,19.0,Eurocom Entertainment Software,T,Very Low
+X360,Shooter,Electronic Arts,54.0,55.0,6.2,195.0,Visceral Games,M,Very High
+PSP,Role-Playing,Nippon Ichi Software,83.0,33.0,7.1,47.0,Nippon Ichi Software,T,Low
+PS4,Racing,Codemasters,65.0,46.0,6.3,43.0,Codemasters,E,Low
+DS,Adventure,Capcom,83.0,60.0,9,127.0,Capcom,T,High
+DS,Role-Playing,Square Enix,77.0,33.0,7.3,15.0,TOSE,E,High
+Wii,Sports,Electronic Arts,52.0,11.0,7.1,21.0,EA Canada,E,High
+PSP,Shooter,Ubisoft,58.0,37.0,7.5,39.0,Ubisoft,M,Low
+X360,Racing,Deep Silver,64.0,49.0,7.1,16.0,Techland,E10+,Very Low
+PC,Strategy,Sega,76.0,71.0,4.2,3742.0,Creative Assembly,T,Very Low
+3DS,Action,Tecmo Koei,61.0,30.0,7.7,35.0,Omega Force,T,Very Low
+PSV,Action,Konami Digital Entertainment,58.0,57.0,5.1,102.0,WayForward,M,Very Low
+PS2,Sports,Sega,70.0,9.0,8.3,4.0,Sumo Digital,E10+,Low
+3DS,Action,Konami Digital Entertainment,78.0,46.0,7.8,167.0,Kojima Productions,M,Very Low
+PS2,Racing,Sega,56.0,16.0,8.3,27.0,Sonic Team,E,Low
+PS3,Action,Tecmo Koei,68.0,26.0,8.5,75.0,Omega Force,T,Very High
+XB,Sports,Electronic Arts,65.0,17.0,8.5,10.0,EA Tiburon,E10+,Very Low
+Wii,Action,Namco Bandai Games,52.0,35.0,5.7,24.0,Namco Bandai Games,T,High
+PS4,Sports,Take-Two Interactive,69.0,50.0,6.9,88.0,Yuke's,T,High
+XOne,Platform,Ubisoft,91.0,6.0,7.9,218.0,Ubisoft Montpellier,E10+,Very High
+PC,Role-Playing,Activision,88.0,62.0,7.5,535.0,Blizzard Entertainment,T,Very Low
+PS2,Sports,Konami Digital Entertainment,86.0,19.0,8.9,33.0,Konami,E,Low
+PC,Action,Deep Silver,80.0,24.0,6.8,1428.0,Techland,M,Very Low
+X360,Action,Capcom,75.0,30.0,7.4,170.0,Capcom,M,Very High
+DS,Action,Capcom,71.0,41.0,8.4,36.0,Capcom,M,Very Low
+PS3,Sports,Take-Two Interactive,72.0,13.0,6.3,9.0,Visual Concepts,E,Low
+Wii,Action,Electronic Arts,67.0,9.0,5.2,5.0,Electronic Arts,E10+,High
+PS3,Sports,Electronic Arts,81.0,31.0,6.5,16.0,EA Canada,E,High
+PS3,Fighting,Namco Bandai Games,73.0,26.0,7.5,100.0,CyberConnect2,T,Very High
+X360,Misc,Ubisoft,67.0,16.0,7.3,19.0,Ubisoft Montpellier,E,Low
+PC,Sports,Take-Two Interactive,86.0,5.0,7.1,66.0,Visual Concepts,E,Very Low
+Wii,Simulation,Electronic Arts,58.0,13.0,2.1,35.0,Electronic Arts,E,Very High
+X360,Action,Electronic Arts,64.0,38.0,6.8,11.0,EA Bright Light,E10+,Low
+GC,Platform,Sega,51.0,24.0,7.2,9.0,TT Games,E,High
+PS3,Strategy,Activision,49.0,6.0,3.6,23.0,Exient Entertainment,E,Low
+X360,Action,Tecmo Koei,65.0,21.0,7.5,35.0,Omega Force,T,Very Low
+3DS,Action,Capcom,65.0,69.0,6.4,110.0,Capcom,M,Very High
+PC,Role-Playing,Square Enix,72.0,37.0,4.7,399.0,Obsidian Entertainment,T,Very Low
+PS3,Role-Playing,Ubisoft,64.0,23.0,5.9,40.0,From Software,T,Low
+PSP,Racing,Codemasters,68.0,23.0,7.2,14.0,Sumo Digital,E,High
+3DS,Platform,Sega,69.0,33.0,7.3,33.0,Griptonite Games,T,Low
+X360,Action,Activision,57.0,50.0,6.8,33.0,Beenox,T,Very Low
+X360,Action,LucasArts,43.0,37.0,6.3,19.0,Krome Studios,T,Very Low
+PS3,Sports,Electronic Arts,67.0,15.0,3.8,4.0,EA Canada,E,Very High
+PS4,Sports,Konami Digital Entertainment,82.0,56.0,7.2,386.0,Konami,E,Very Low
+PS3,Action,Capcom,74.0,30.0,7.2,204.0,Capcom,M,Very High
+PS3,Action,Warner Bros. Interactive Entertainment,61.0,12.0,6.7,17.0,Double Helix Games,T,Very Low
+3DS,Fighting,THQ,71.0,12.0,7.4,7.0,THQ,T,High
+PSP,Adventure,THQ,57.0,9.0,6.3,10.0,TOSE,E10+,Very Low
+X360,Adventure,Codemasters,25.0,27.0,2.5,41.0,Team 17,M,Low
+X360,Sports,Konami Digital Entertainment,76.0,29.0,7.8,36.0,Konami,E,Low
+DS,Action,Activision,77.0,12.0,7.5,14.0,Griptonite Games,E10+,Very Low
+X360,Fighting,Atlus,83.0,21.0,7.3,60.0,Arc System Works,T,High
+PS3,Misc,Sega,73.0,10.0,8.4,108.0,Sega,T,Very High
+PC,Action,Ubisoft,88.0,24.0,8.2,1102.0,Ubisoft Montreal,M,Very Low
+DS,Action,Vivendi Games,63.0,17.0,7.6,13.0,Amaze Entertainment,T,Very Low
+PS3,Shooter,THQ,70.0,46.0,7.4,162.0,Relic,M,Very High
+PS3,Role-Playing,Nippon Ichi Software,74.0,19.0,6.7,109.0,Gust,T,Very High
+PC,Action,Take-Two Interactive,82.0,6.0,8.6,37.0,Visual Concepts,E,Very High
+X360,Racing,Codemasters,78.0,51.0,5.8,156.0,Codemasters,E,Very High
+PS3,Misc,Electronic Arts,66.0,13.0,7.1,7.0,EA Bright Light,E,High
+X360,Shooter,Codemasters,69.0,64.0,6.1,29.0,Codemasters,M,Low
+Wii,Racing,Codemasters,69.0,29.0,7.2,30.0,Sumo Digital,E,Very High
+PSP,Action,Capcom,74.0,34.0,6.8,6.0,Capcom,T,Very Low
+PSV,Misc,Sega,81.0,8.0,8.4,69.0,Sega,T,High
+PSP,Action,Activision,60.0,6.0,7.5,12.0,Griptonite Games,T,Very Low
+X360,Sports,Konami Digital Entertainment,79.0,43.0,5.9,33.0,Konami,E,Low
+X360,Racing,Codemasters,84.0,42.0,6.9,56.0,Codemasters,E,Very High
+PS4,Action,Activision,77.0,50.0,7.5,160.0,PlatinumGames,T,High
+Wii,Platform,Vivendi Games,60.0,8.0,6.4,15.0,Krome Studios,E10+,Very High
+PS3,Shooter,Electronic Arts,58.0,27.0,6.7,100.0,Visceral Games,M,Very High
+PC,Shooter,Electronic Arts,87.0,28.0,8.3,974.0,Visceral Games,M,Very Low
+Wii,Action,THQ,74.0,4.0,6,9.0,THQ,T,High
+DS,Action,Electronic Arts,47.0,16.0,7.5,4.0,Backbone Entertainment,E10+,Very Low
+X360,Sports,Electronic Arts,71.0,45.0,5.1,14.0,EA Sports,E,High
+X360,Platform,Warner Bros. Interactive Entertainment,51.0,10.0,5.4,5.0,Griptonite Games,E10+,High
+DS,Role-Playing,Atlus,84.0,28.0,8.8,79.0,Atlus,T,High
+3DS,Role-Playing,Atlus,80.0,41.0,8.2,89.0,Atlus,T,High
+PC,Strategy,Take-Two Interactive,88.0,81.0,7.3,684.0,Firaxis Games,E10+,Very Low
+PS3,Simulation,Namco Bandai Games,65.0,26.0,7.3,47.0,From Software,T,Low
+GC,Sports,Electronic Arts,76.0,17.0,6.2,5.0,EA Canada,E,Very High
+X360,Action,Electronic Arts,60.0,19.0,5.8,10.0,EA Bright Light,E,Very High
+PSP,Sports,Electronic Arts,68.0,6.0,5.4,9.0,EA Sports,E,Very High
+DS,Action,Activision,55.0,8.0,8.1,8.0,Griptonite Games,E10+,Very Low
+XOne,Sports,Electronic Arts,36.0,14.0,3.1,88.0,EA Sports,E,Very High
+PS3,Action,Tecmo Koei,62.0,22.0,7,26.0,Omega Force,T,Very Low
+PSP,Racing,Electronic Arts,66.0,13.0,5.3,6.0,Exient Entertainment,E,High
+PS3,Sports,Sega,67.0,31.0,7.4,7.0,Sumo Digital,E10+,Low
+PSP,Fighting,Namco Bandai Games,61.0,22.0,6.6,19.0,CyberConnect2,T,Low
+X360,Sports,Sega,70.0,37.0,6.2,12.0,Sega,E,Low
+X360,Sports,Electronic Arts,77.0,47.0,6.7,58.0,EA Sports,E,Very High
+DS,Role-Playing,Square Enix,75.0,37.0,7.3,21.0,Square Enix,E10+,Very Low
+PS3,Fighting,THQ,75.0,51.0,6.4,36.0,THQ,T,Low
+X360,Shooter,Square Enix,58.0,52.0,6.1,24.0,Double Helix Games,T,Low
+PS4,Action,Activision,81.0,51.0,3.3,29.0,Vicarious Visions,E10+,Very Low
+3DS,Fighting,Namco Bandai Games,61.0,32.0,6.6,32.0,Arc System Works,T,Low
+PS2,Role-Playing,Tecmo Koei,84.0,54.0,6.4,42.0,Nippon Ichi Software,T,Low
+PSP,Role-Playing,Square Enix,87.0,49.0,8.8,102.0,Square Enix,T,High
+PS3,Action,Capcom,61.0,37.0,7.9,29.0,Capcom,T,Very Low
+DS,Strategy,THQ,78.0,28.0,6.9,20.0,Griptonite Games,E10+,Very Low
+PS4,Sports,Electronic Arts,59.0,27.0,6.1,70.0,EA Sports,E,Very High
+PS3,Sports,Sony Computer Entertainment,63.0,17.0,5.1,7.0,SCEA San Diego Studios,E,Low
+PS3,Action,Capcom,71.0,39.0,7.4,169.0,CyberConnect2,T,Very High
+PS3,Action,Disney Interactive Studios,56.0,16.0,5.6,8.0,Traveller's Tales,T,Very Low
+XOne,Fighting,Ubisoft,23.0,39.0,3,211.0,Ubisoft,T,High
+PS3,Misc,Electronic Arts,64.0,11.0,6.1,9.0,Electronic Arts,E,High
+DS,Misc,Electronic Arts,75.0,19.0,7.6,75.0,EA Bright Light,E10+,Very High
+PS3,Sports,Sony Computer Entertainment,63.0,37.0,6,4.0,SCEA San Diego Studios,E,Low
+PS3,Action,Electronic Arts,61.0,23.0,5.2,5.0,EA Bright Light,E,Very High
+PSP,Action,Ubisoft,61.0,31.0,7,7.0,Ubisoft Montreal,T,Very Low
+PSV,Sports,Sony Computer Entertainment,75.0,7.0,7.5,21.0,SCEA San Diego Studios,E,Low
+PS4,Action,Tecmo Koei,76.0,31.0,8.1,74.0,Omega Force,T,High
+PS3,Sports,Electronic Arts,63.0,37.0,6.9,19.0,EA Canada,E,High
+3DS,Misc,THQ,64.0,8.0,6,8.0,WayForward,E,High
+DS,Racing,Electronic Arts,74.0,8.0,7.4,10.0,Exient Entertainment,E,High
+X360,Sports,Konami Digital Entertainment,78.0,34.0,7.6,29.0,Konami,E,Low
+PS3,Fighting,Electronic Arts,77.0,47.0,6.9,38.0,EA Tiburon,T,Low
+PS3,Action,Namco Bandai Games,54.0,22.0,7,28.0,Omega Force,T,Very Low
+X360,Role-Playing,Square Enix,66.0,25.0,6.5,33.0,Square Enix,T,Low
+X360,Fighting,THQ,75.0,64.0,7.2,45.0,THQ,T,Low
+X360,Action,Konami Digital Entertainment,78.0,36.0,6.6,55.0,Konami,E,Very Low
+X360,Fighting,Namco Bandai Games,62.0,11.0,7.3,44.0,CyberConnect2,T,Low
+XB,Racing,Sega,56.0,33.0,8.1,7.0,Sonic Team,E,High
+XOne,Action,Activision,75.0,25.0,7.9,55.0,PlatinumGames,T,High
+PSP,Sports,Electronic Arts,72.0,15.0,7.3,8.0,EA Canada,E,Very High
+PC,Action,Warner Bros. Interactive Entertainment,75.0,40.0,7.9,1295.0,Techland,M,Very Low
+PS4,Strategy,Activision,47.0,5.0,2,87.0,Exient Entertainment,E,Very High
+PSP,Sports,Electronic Arts,69.0,11.0,7.4,9.0,Electronic Arts,E,Very High
+DS,Role-Playing,Atlus,77.0,23.0,8,21.0,Atlus,E10+,Very Low
+X360,Misc,Sega,53.0,31.0,5.2,10.0,Sega,T,High
+PSP,Action,Electronic Arts,52.0,11.0,7.6,20.0,EA Games,E10+,Very Low
+X360,Racing,THQ,58.0,9.0,7.8,6.0,Rainbow Studios,E,High
+Wii,Action,Capcom,62.0,17.0,8.2,37.0,Capcom,M,Low
+PS4,Sports,Electronic Arts,59.0,24.0,5.6,86.0,EA Sports,E,Very High
+3DS,Action,Ubisoft,53.0,32.0,5.5,26.0,Ubisoft,T,Very Low
+DS,Racing,Electronic Arts,70.0,6.0,7.5,15.0,Exient Entertainment,E,High
+X360,Action,Electronic Arts,42.0,59.0,4.7,22.0,Double Helix Games,T,Very Low
+PSP,Sports,Konami Digital Entertainment,72.0,9.0,4.6,5.0,Konami,E,Very Low
+3DS,Sports,Konami Digital Entertainment,73.0,43.0,6.7,18.0,Konami,E,Low
+Wii,Platform,Konami Digital Entertainment,67.0,29.0,6.3,15.0,Konami,E,High
+PC,Action,LucasArts,76.0,14.0,7.5,44.0,Traveller's Tales,E10+,Very Low
+DS,Role-Playing,Atlus,82.0,17.0,8.9,24.0,Atlus,E10+,Very Low
+X360,Sports,Ubisoft,21.0,5.0,5,25.0,Ubisoft,T,Low
+PS3,Action,Take-Two Interactive,47.0,26.0,6.2,10.0,Visual Concepts,T,Very Low
+PC,Shooter,Ubisoft,80.0,17.0,6.7,1064.0,Ubisoft Montreal,M,Very Low
+PS2,Sports,Sony Computer Entertainment,79.0,7.0,7.5,12.0,SCEA San Diego Studios,E,Low
+PSP,Fighting,THQ,74.0,27.0,7,13.0,Yuke's,T,Low
+PSP,Simulation,Electronic Arts,64.0,5.0,7.3,18.0,Maxis,E10+,Very Low
+PS3,Role-Playing,Square Enix,71.0,52.0,6.3,86.0,Obsidian Entertainment,T,Very High
+GC,Shooter,Eidos Interactive,51.0,4.0,5.2,5.0,Traveller's Tales,E10+,High
+PSP,Sports,Sony Computer Entertainment,77.0,9.0,6,5.0,SCEA San Diego Studios,E,Low
+PC,Strategy,Take-Two Interactive,88.0,104.0,7.1,1221.0,Firaxis Games,T,Very Low
+DS,Action,THQ,69.0,6.0,7,4.0,THQ,E10+,Very Low
+PS3,Sports,Take-Two Interactive,73.0,23.0,7.3,21.0,Visual Concepts,E10+,Very Low
+PSP,Strategy,THQ,70.0,22.0,6.6,18.0,Team 17,E10+,Very Low
+PSP,Action,Disney Interactive Studios,61.0,5.0,7,11.0,Eurocom Entertainment Software,T,Very Low
+GC,Sports,Electronic Arts,63.0,16.0,5.7,7.0,EA Canada,E,Very High
+PS4,Action,Tecmo Koei,58.0,33.0,6.5,21.0,Omega Force,T,Very Low
+PS2,Role-Playing,Konami Digital Entertainment,76.0,43.0,7.6,109.0,Konami,T,High
+X360,Action,Tecmo Koei,58.0,22.0,8,46.0,Omega Force,T,Very Low
+PS3,Fighting,Electronic Arts,53.0,37.0,3.8,20.0,EA Canada,T,Low
+DS,Action,Ubisoft,36.0,8.0,4.8,4.0,Ubisoft,E10+,Very Low
+PS3,Action,Electronic Arts,43.0,32.0,4.8,13.0,Double Helix Games,T,Very Low
+XB,Sports,Electronic Arts,81.0,21.0,6.8,6.0,EA Redwood Shores,E,Very High
+DS,Fighting,THQ,58.0,15.0,7.8,6.0,TOSE,T,High
+X360,Misc,Ubisoft,47.0,4.0,5.3,6.0,Ubisoft,E10+,High
+PS4,Role-Playing,Square Enix,77.0,74.0,8.3,222.0,Square Enix,E10+,High
+PS4,Platform,Electronic Arts,69.0,50.0,4.7,578.0,EA DICE,T,High
+Wii,Action,Sega,41.0,11.0,4.6,12.0,High Voltage Software,T,High
+Wii,Action,THQ,72.0,45.0,8.8,36.0,Rainbow Studios,T,High
+PSP,Racing,Sony Computer Entertainment,55.0,13.0,5.7,10.0,Codemasters,E10+,High
+DS,Action,Sega,64.0,18.0,7.2,9.0,WayForward,E10+,Very Low
+PS3,Racing,Codemasters,83.0,32.0,8,32.0,Codemasters,E,Low
+DS,Fighting,THQ,61.0,4.0,2.8,4.0,THQ,E10+,High
+X360,Racing,Codemasters,83.0,59.0,7.4,94.0,Codemasters,E,Very High
+WiiU,Platform,Nintendo,80.0,66.0,8.2,283.0,TT Games,E10+,Very High
+X360,Shooter,Sega,84.0,70.0,8.4,182.0,PlatinumGames,M,Very High
+PS3,Misc,Ubisoft,75.0,5.0,6,7.0,Ubisoft,E10+,High
+XOne,Sports,Electronic Arts,88.0,22.0,5.8,328.0,EA Canada,E,Very High
+X360,Action,THQ,70.0,52.0,7.5,48.0,Relic,M,Very Low
+PS3,Sports,Ubisoft,63.0,30.0,6.3,26.0,Ubisoft Montreal,T,Low
+PS2,Action,Activision,56.0,18.0,6.1,9.0,Amaze Entertainment,E10+,Low
+X360,Platform,Activision,63.0,61.0,7,53.0,Treyarch,T,High
+Wii,Misc,Nintendo,60.0,34.0,6.1,16.0,Nintendo,E10+,Very High
+X360,Action,Ubisoft,68.0,57.0,6.3,29.0,Ubisoft,T,Very Low
+PSP,Action,LucasArts,76.0,8.0,7.6,11.0,Traveller's Tales,E10+,Very Low
+PS2,Action,Disney Interactive Studios,67.0,6.0,7,8.0,Traveller's Tales,T,Low
+X360,Sports,Electronic Arts,80.0,44.0,7.9,21.0,EA Redwood Shores,E,Low
+PS2,Action,Eidos Interactive,82.0,43.0,7.1,96.0,Crystal Dynamics,T,High
+3DS,Role-Playing,Namco Bandai Games,75.0,33.0,7.6,197.0,Bandai Namco Games,T,High
+DS,Fighting,THQ,75.0,7.0,8.3,4.0,Yuke's,T,High
+PSP,Platform,Sony Computer Entertainment,85.0,55.0,8.4,44.0,SCE Japan Studio,E,Low
+PS3,Action,Electronic Arts,67.0,53.0,7.2,50.0,EA Redwood Shores,M,Very Low
+PS3,Sports,Take-Two Interactive,74.0,22.0,7.5,121.0,Yuke's,T,Very High
+PS4,Action,Warner Bros. Interactive Entertainment,70.0,46.0,7,80.0,TT Games,E10+,Very High
+DS,Role-Playing,Activision,56.0,6.0,6.9,12.0,Griptonite Games,E10+,Very Low
+PS4,Shooter,Take-Two Interactive,82.0,49.0,7.8,345.0,Gearbox Software,M,Very High
+Wii,Simulation,Electronic Arts,61.0,23.0,7.1,36.0,Maxis,E10+,Very High
+X360,Action,Eidos Interactive,80.0,54.0,7.3,84.0,Crystal Dynamics,T,High
+X360,Racing,Codemasters,87.0,81.0,7.1,166.0,Codemasters,T,High
+XOne,Fighting,Namco Bandai Games,81.0,11.0,8.5,51.0,CyberConnect2,T,Low
+PS3,Action,Ubisoft,85.0,59.0,7.3,245.0,Ubisoft Montreal,T,Very High
+X360,Action,Konami Digital Entertainment,82.0,46.0,7.8,358.0,PlatinumGames,M,Very Low
+PC,Action,Ubisoft,80.0,21.0,6.2,1489.0,Ubisoft,M,Very Low
+Wii,Sports,Electronic Arts,84.0,29.0,8.3,23.0,EA Sports,E,Very High
+PC,Simulation,Electronic Arts,64.0,75.0,2.2,4572.0,Maxis,E10+,Very Low
+X360,Shooter,THQ,76.0,57.0,7.8,232.0,Relic,M,Very High
+DS,Adventure,Disney Interactive Studios,63.0,11.0,8.6,7.0,Amaze Entertainment,T,Very Low
+PS3,Misc,MTV Games,60.0,12.0,5.3,14.0,Harmonix Music Systems,T,High
+PS3,Role-Playing,Ubisoft,85.0,31.0,8.5,575.0,Obsidian Entertainment,M,High
+PS2,Racing,Sega,55.0,41.0,7.2,25.0,Sonic Team,E,Low
+PS3,Role-Playing,Nippon Ichi Software,80.0,39.0,7.8,126.0,Nippon Ichi Software,T,Very High
+Wii,Platform,Activision,53.0,39.0,5.3,29.0,Vicarious Visions,T,Very High
+PS2,Action,Disney Interactive Studios,54.0,10.0,7,10.0,Eurocom Entertainment Software,T,Low
+PC,Strategy,Take-Two Interactive,89.0,57.0,8.2,2235.0,Firaxis Games,M,Very Low
+PS3,Racing,Codemasters,87.0,39.0,8.1,109.0,Codemasters,E,Very High
+XOne,Action,Warner Bros. Interactive Entertainment,80.0,12.0,6.9,27.0,Traveller's Tales,E10+,Very Low
+X360,Action,Vivendi Games,65.0,25.0,6.3,39.0,Radical Entertainment,E10+,Very Low
+Wii,Action,Electronic Arts,60.0,35.0,6,8.0,EA Bright Light,E10+,High
+Wii,Action,Square Enix,66.0,53.0,7.6,70.0,Square Enix,T,High
+WiiU,Action,Activision,87.0,13.0,5.6,65.0,Vicarious Visions,E10+,Very High
+WiiU,Sports,Ubisoft,31.0,13.0,2.7,18.0,Ubisoft,E,Low
+X360,Sports,Electronic Arts,77.0,47.0,5.6,39.0,Electronic Arts,E,Low
+PS3,Sports,Electronic Arts,88.0,35.0,7.9,40.0,EA Canada,E10+,Very Low
+Wii,Sports,Sega,71.0,24.0,7,16.0,Sumo Digital,E10+,Very High
+DS,Misc,Ubisoft,68.0,7.0,7,4.0,Ubisoft,E,High
+X360,Sports,Activision,81.0,65.0,7.6,38.0,Neversoft Entertainment,T,Low
+DS,Sports,Activision,76.0,34.0,7,7.0,Vicarious Visions,E,Low
+PSV,Sports,Electronic Arts,63.0,6.0,7.3,38.0,EA Tiburon,E,Low
+PS3,Sports,Electronic Arts,76.0,25.0,4.2,22.0,EA Tiburon,E,Low
+PS3,Sports,Electronic Arts,81.0,32.0,7.5,25.0,EA Canada,E,High
+WiiU,Action,Warner Bros. Interactive Entertainment,71.0,5.0,8.1,14.0,TT Games,E10+,Very Low
+PS3,Shooter,Capcom,67.0,34.0,7,36.0,Capcom,T,Low
+X360,Sports,Electronic Arts,73.0,37.0,5.3,19.0,EA Canada,E,High
+X360,Misc,MTV Games,63.0,16.0,4.9,10.0,Harmonix Music Systems,T,High
+DS,Misc,Activision,65.0,18.0,7,4.0,Vicarious Visions,E10+,High
+PS3,Platform,Sega,43.0,17.0,4.1,176.0,Sonic Team,E10+,Very High
+PSP,Sports,Sony Computer Entertainment,79.0,11.0,6.6,8.0,SCEA,E,Low
+PS3,Misc,Activision,73.0,34.0,7.2,9.0,Beenox,T,High
+PS2,Action,Sega,47.0,8.0,5.6,15.0,Artificial Mind and Movement,T,Low
+WiiU,Action,Activision,80.0,8.0,6.9,22.0,Vicarious Visions,E10+,Very Low
+X360,Action,Ubisoft,80.0,34.0,7.8,46.0,Ubisoft Montreal,T,Very Low
+X360,Action,Electronic Arts,38.0,42.0,5,46.0,EA Bright Light,T,Very Low
+PSV,Role-Playing,Atlus,93.0,61.0,9.2,1228.0,Atlus,M,High
+X360,Racing,Electronic Arts,59.0,29.0,5.2,30.0,EA Tiburon,E,Low
+PS2,Platform,Vivendi Games,73.0,7.0,6.5,36.0,Radical Entertainment,E10+,Very Low
+PS3,Sports,Electronic Arts,86.0,33.0,7.5,52.0,Electronic Arts,E10+,Very High
+PC,Strategy,Activision,88.0,62.0,8.3,833.0,Blizzard Entertainment,T,Very Low
+PSP,Fighting,THQ,78.0,13.0,8.1,21.0,Yuke's,T,Low
+X360,Shooter,THQ,85.0,84.0,8.1,237.0,Volition Inc.,M,Very High
+WiiU,Platform,Sega,63.0,64.0,7.3,461.0,Sonic Team,E10+,Very High
+X360,Fighting,Namco Bandai Games,70.0,16.0,7.7,67.0,CyberConnect2,T,High
+PS3,Strategy,Take-Two Interactive,85.0,39.0,7.7,87.0,Firaxis Games,E10+,Very High
+PS4,Sports,Take-Two Interactive,73.0,47.0,7.4,237.0,Yuke's,T,High
+PSP,Sports,Electronic Arts,64.0,9.0,7.5,4.0,EA Sports,E,Very High
+XOne,Misc,Ubisoft,71.0,6.0,7,58.0,Ubisoft,E10+,Very High
+GC,Sports,Electronic Arts,82.0,14.0,9.2,5.0,EA Tiburon,E,Very High
+PSP,Sports,Electronic Arts,84.0,8.0,8.9,21.0,EA Canada,E,High
+PS3,Fighting,Namco Bandai Games,82.0,50.0,8.2,193.0,Namco Bandai Games,T,Very High
+PS3,Action,Disney Interactive Studios,73.0,42.0,7.1,34.0,Traveller's Tales,E10+,Very Low
+DS,Simulation,Electronic Arts,73.0,9.0,6.4,20.0,Exient Entertainment,E,Low
+Wii,Action,Vivendi Games,69.0,16.0,5.8,22.0,Radical Entertainment,E10+,High
+DS,Platform,Vivendi Games,56.0,4.0,2.7,6.0,Amaze Entertainment,E,High
+PS3,Sports,Sony Computer Entertainment,77.0,30.0,7.5,17.0,SCEA San Diego Studios,E,High
+WiiU,Sports,Nintendo,72.0,19.0,7.7,72.0,Nintendo,E,Very High
+PS3,Action,Konami Digital Entertainment,80.0,61.0,7.9,746.0,PlatinumGames,M,Very Low
+PS3,Action,Square Enix,78.0,37.0,8.1,60.0,Crystal Dynamics,T,Very High
+PSP,Sports,Sony Computer Entertainment,78.0,12.0,6.9,7.0,SCEA San Diego Studios,E,Low
+DS,Simulation,Electronic Arts,69.0,16.0,7.3,8.0,Electronic Arts,E,High
+PS3,Fighting,Atlus,86.0,47.0,7.7,180.0,Arc System Works,T,Very High
+PS3,Sports,Electronic Arts,82.0,34.0,7.2,9.0,EA Tiburon,E,Very High
+X360,Sports,Take-Two Interactive,76.0,26.0,7.6,38.0,Visual Concepts,E,Low
+DS,Action,Sega,43.0,7.0,4.9,8.0,Artificial Mind and Movement,E10+,Very Low
+PSP,Action,LucasArts,70.0,10.0,8.1,49.0,Krome Studios,T,Very Low
+PSP,Racing,Sega,60.0,24.0,7.8,35.0,Backbone Entertainment,E,Low
+XB,Racing,Electronic Arts,74.0,19.0,7.4,11.0,EA Canada,E10+,High
+PS4,Platform,Activision,79.0,7.0,5.2,45.0,Vicarious Visions,E10+,High
+PS3,Racing,Electronic Arts,65.0,22.0,7.5,10.0,EA Games,E,High
+PS3,Action,Activision,66.0,18.0,4.5,4.0,Beenox,E10+,Very Low
+PSP,Fighting,THQ,68.0,11.0,7.8,15.0,Yuke's,T,High
+Wii,Role-Playing,Namco Bandai Games,68.0,46.0,7.1,93.0,Bandai Namco Games,T,High
+Wii,Adventure,Ubisoft,62.0,24.0,7.6,14.0,Ubisoft,E10+,Very High
+X360,Misc,Activision,71.0,56.0,5.9,18.0,Beenox,T,Low
+Wii,Fighting,THQ,78.0,11.0,7.7,9.0,Yuke's,T,High
+XOne,Sports,Electronic Arts,70.0,23.0,6.3,152.0,EA Sports,T,High
+PS3,Misc,Ubisoft,66.0,11.0,8.4,16.0,Ubisoft Montreal,E10+,Very Low
+PSP,Sports,Electronic Arts,73.0,11.0,6.2,5.0,EA Canada,E,Very High
+PS3,Sports,Electronic Arts,78.0,40.0,6.7,17.0,EA Sports,E,High
+X360,Action,Activision,76.0,68.0,7.6,96.0,Beenox,T,High
+3DS,Action,Activision,82.0,8.0,4.9,62.0,Vicarious Visions,E10+,Very High
+PSP,Role-Playing,Square Enix,63.0,31.0,7.1,24.0,TOSE,T,Low
+GC,Racing,Electronic Arts,75.0,12.0,7.8,14.0,EA Canada,E10+,Very Low
+PSP,Role-Playing,Square Enix,67.0,34.0,7.7,47.0,TOSE,E10+,Very Low
+DS,Sports,Electronic Arts,70.0,9.0,6.5,10.0,Exient Entertainment,E,Very Low
+X360,Platform,Sega,46.0,38.0,4.4,455.0,Sega,E10+,Very High
+3DS,Strategy,Ubisoft,77.0,49.0,7.9,78.0,Ubisoft,T,High
+DS,Role-Playing,Square Enix,77.0,41.0,7.2,25.0,Square Enix,E10+,Very Low
+WiiU,Platform,Activision,89.0,7.0,6,96.0,Vicarious Visions,E10+,Very High
+XOne,Action,Warner Bros. Interactive Entertainment,70.0,17.0,6.7,44.0,TT Games,E10+,Very Low
+Wii,Sports,Take-Two Interactive,62.0,12.0,5.8,4.0,Visual Concepts,E10+,Low
+PS3,Racing,Codemasters,87.0,52.0,7.1,122.0,Codemasters,T,Very High
+PS3,Racing,Codemasters,87.0,63.0,8.2,94.0,Codemasters,T,Very High
+PS3,Shooter,THQ,85.0,56.0,8.1,136.0,Volition Inc.,M,Very High
+Wii,Action,Konami Digital Entertainment,75.0,46.0,7.4,33.0,Konami,E,High
+PS3,Fighting,Namco Bandai Games,76.0,34.0,8.3,130.0,CyberConnect2,T,Very High
+X360,Simulation,Konami Digital Entertainment,74.0,26.0,8.8,5.0,Konami,E10+,High
+PS3,Sports,Electronic Arts,81.0,28.0,7.1,47.0,EA Canada,E,Low
+Wii,Misc,Sega,68.0,43.0,8.1,40.0,Gearbox Software,E,Very High
+X360,Shooter,Activision,72.0,56.0,6,96.0,Eurocom Entertainment Software,T,High
+GC,Action,THQ,63.0,11.0,6.9,11.0,Artificial Mind and Movement,E10+,Very Low
+PS4,Action,Warner Bros. Interactive Entertainment,71.0,31.0,7.1,98.0,TT Games,E10+,Very High
+PS3,Sports,Sony Computer Entertainment,63.0,24.0,6.3,10.0,SCEA,E,Low
+PSP,Role-Playing,Capcom,81.0,48.0,8.7,124.0,Capcom,T,High
+X360,Action,Eidos Interactive,82.0,53.0,8.7,102.0,Io Interactive,M,Very High
+X360,Sports,Electronic Arts,83.0,61.0,8.1,58.0,Electronic Arts,E,Very High
+DS,Role-Playing,Square Enix,80.0,47.0,6.9,106.0,Square Enix,E10+,High
+X360,Sports,Electronic Arts,59.0,32.0,4.9,60.0,EA Sports,E,Very High
+PS2,Sports,Electronic Arts,76.0,11.0,4.6,51.0,EA Sports,E10+,Very Low
+PS4,Sports,Electronic Arts,60.0,28.0,3.6,306.0,EA Sports,E10+,Very High
+PSV,Action,Sony Computer Entertainment,83.0,73.0,8.5,625.0,SCE Japan Studio,T,High
+X360,Racing,Codemasters,87.0,62.0,7.9,131.0,Codemasters,E,Very High
+PS3,Action,Deep Silver,62.0,25.0,5.9,140.0,Techland,M,Very High
+PSP,Fighting,Square Enix,78.0,52.0,8.3,144.0,Square Enix,T,High
+PS3,Misc,Activision,74.0,46.0,7.1,30.0,Neversoft Entertainment,T,Low
+X360,Fighting,THQ,71.0,59.0,6.3,23.0,Yuke's,T,Low
+Wii,Misc,Electronic Arts,65.0,9.0,5.2,5.0,Electronic Arts,E,High
+WiiU,Strategy,Nintendo,87.0,79.0,8.7,664.0,Nintendo,E10+,Very High
+PSP,Simulation,Electronic Arts,57.0,9.0,7.3,10.0,Maxis,T,High
+X360,Sports,Electronic Arts,80.0,51.0,6.9,20.0,EA Tiburon,E,Low
+Wii,Role-Playing,Eidos Interactive,73.0,11.0,8.4,14.0,Backbone Entertainment,E10+,Very High
+PS2,Sports,Electronic Arts,77.0,28.0,8.1,33.0,EA Canada,E,Low
+X360,Sports,Take-Two Interactive,68.0,19.0,6.4,22.0,Visual Concepts,E,Low
+XOne,Sports,Electronic Arts,59.0,22.0,3.2,180.0,EA Sports,E10+,Very High
+Wii,Action,Disney Interactive Studios,53.0,17.0,7.2,17.0,Eurocom Entertainment Software,T,High
+3DS,Action,Activision,62.0,7.0,4.6,20.0,Exient Entertainment,E,Very High
+PS3,Role-Playing,Capcom,78.0,38.0,8.3,444.0,Capcom,M,High
+DS,Role-Playing,Square Enix,75.0,30.0,7.4,27.0,TOSE,E10+,Very Low
+X360,Racing,THQ,65.0,16.0,6.1,8.0,Rainbow Studios,E,High
+PS3,Shooter,Ubisoft,86.0,32.0,7.6,81.0,Ubisoft Montreal,M,Very High
+XOne,Sports,Electronic Arts,76.0,42.0,6,77.0,EA Sports,T,High
+PS3,Role-Playing,Activision,74.0,48.0,7.3,51.0,Vicarious Visions,T,Low
+DS,Adventure,THQ,64.0,9.0,6.4,7.0,TOSE,E,Very Low
+PS2,Action,Eidos Interactive,83.0,36.0,8.4,104.0,Io Interactive,M,Very High
+Wii,Racing,THQ,70.0,7.0,8.3,9.0,Rainbow Studios,E,High
+PSP,Shooter,Ubisoft,60.0,20.0,7.1,31.0,Ubisoft Montreal,T,Low
+X360,Fighting,THQ,81.0,50.0,7.8,46.0,Yuke's,T,Low
+PC,Action,Electronic Arts,82.0,45.0,4.5,4533.0,BioWare,M,Very Low
+PS3,Sports,Activision,76.0,43.0,7.2,14.0,Neversoft Entertainment,T,High
+WiiU,Action,Warner Bros. Interactive Entertainment,62.0,5.0,6.5,29.0,Traveller's Tales,E10+,Very Low
+PSP,Fighting,Capcom,80.0,35.0,8,27.0,Capcom,T,Low
+PS4,Sports,Electronic Arts,70.0,57.0,6.1,279.0,EA Sports,T,High
+Wii,Shooter,Sega,69.0,79.0,8.2,258.0,High Voltage Software,T,High
+XOne,Sports,Take-Two Interactive,56.0,25.0,5.7,63.0,Yuke's,T,High
+PSP,Sports,Sony Computer Entertainment,83.0,30.0,8.5,32.0,SCEA San Diego Studios,E,Low
+PS2,Sports,Electronic Arts,66.0,18.0,8.6,14.0,EA Tiburon,E10+,Very Low
+PS3,Misc,Ubisoft,77.0,5.0,7.1,29.0,Ubisoft,E10+,Very Low
+X360,Action,Electronic Arts,85.0,44.0,8.2,44.0,EA Canada,E10+,Very Low
+Wii,Misc,Namco Bandai Games,64.0,28.0,7.8,13.0,Namco Bandai Games,E10+,Very High
+Wii,Platform,Vivendi Games,70.0,13.0,6.6,16.0,Radical Entertainment,E10+,Very High
+PS4,Action,Warner Bros. Interactive Entertainment,73.0,43.0,7.1,75.0,TT Games,E10+,Very High
+X360,Sports,Electronic Arts,82.0,43.0,7.9,57.0,EA Canada,E,Very High
+DS,Platform,Vivendi Games,45.0,12.0,5.8,8.0,TOSE,E,High
+X360,Adventure,Deep Silver,82.0,39.0,7.9,153.0,Atlus,M,Very High
+PS4,Platform,Ubisoft,90.0,16.0,8.5,525.0,Ubisoft Montpellier,E10+,Very High
+PS4,Misc,Ubisoft,72.0,8.0,5.8,32.0,Ubisoft,E10+,High
+PC,Shooter,Take-Two Interactive,89.0,38.0,8.2,2482.0,Gearbox Software,M,Very Low
+WiiU,Misc,Ubisoft,75.0,6.0,6.6,26.0,Ubisoft,E10+,Very Low
+X360,Sports,Electronic Arts,70.0,23.0,5.6,8.0,EA Canada,E,Very High
+PS3,Shooter,Electronic Arts,75.0,16.0,7.6,39.0,Electronic Arts,T,Low
+Wii,Action,LucasArts,48.0,10.0,6.4,5.0,Krome Studios,T,High
+3DS,Action,Capcom,82.0,78.0,8.5,397.0,Capcom,M,Very High
+X360,Action,Konami Digital Entertainment,68.0,38.0,7.3,269.0,Konami,M,Very Low
+PS3,Sports,Electronic Arts,81.0,38.0,7.7,9.0,EA Tiburon,E,Very High
+PS3,Role-Playing,Namco Bandai Games,71.0,59.0,7.9,216.0,Bandai Namco Games,T,Very High
+PS3,Misc,Electronic Arts,54.0,4.0,6.7,13.0,Electronic Arts,E,Low
+PS3,Sports,Electronic Arts,87.0,42.0,7.5,108.0,EA Canada,E,Very High
+Wii,Action,Disney Interactive Studios,69.0,6.0,8,6.0,Eurocom Entertainment Software,E10+,High
+PSP,Action,Konami Digital Entertainment,87.0,54.0,8.2,147.0,Kojima Productions,M,Very Low
+XOne,Action,Warner Bros. Interactive Entertainment,71.0,18.0,5.1,15.0,TT Games,E10+,Very Low
+DS,Simulation,Electronic Arts,70.0,10.0,7.5,4.0,Electronic Arts,E,High
+PS3,Role-Playing,Namco Bandai Games,78.0,65.0,8.2,468.0,Bandai Namco Games,T,Very High
+DS,Platform,Vivendi Games,68.0,10.0,6.8,8.0,Amaze Entertainment,E,High
+X360,Sports,Take-Two Interactive,50.0,5.0,4,65.0,Yuke's,T,High
+PS3,Fighting,THQ,74.0,42.0,6.9,41.0,Yuke's,T,Low
+PSP,Sports,Electronic Arts,79.0,7.0,7.4,15.0,EA Canada,E,High
+PSP,Misc,Sony Computer Entertainment,86.0,60.0,8.7,102.0,SCE Japan Studio,E,Very High
+PS3,Fighting,THQ,81.0,38.0,8.1,55.0,Yuke's,T,Very High
+X360,Sports,Electronic Arts,87.0,51.0,8,106.0,EA Canada,E,Very High
+PS3,Role-Playing,Namco Bandai Games,91.0,69.0,8.1,1107.0,From Software,T,Very High
+PSP,Adventure,Disney Interactive Studios,52.0,34.0,8,17.0,Griptonite Games,T,High
+X360,Action,Warner Bros. Interactive Entertainment,70.0,4.0,8.7,11.0,TT Games,E10+,Low
+X360,Racing,Electronic Arts,69.0,32.0,7.8,15.0,EA Games,E,High
+PSP,Sports,Sony Computer Entertainment,83.0,14.0,8.4,12.0,SCEA San Diego Studios,E,Low
+PS3,Action,Disney Interactive Studios,70.0,29.0,6.9,13.0,Eurocom Entertainment Software,E10+,Very Low
+3DS,Action,Warner Bros. Interactive Entertainment,72.0,6.0,5.2,25.0,TT Games,E10+,Very Low
+PS4,Action,Konami Digital Entertainment,75.0,70.0,6.2,1311.0,Kojima Productions,M,Very Low
+Wii,Misc,Activision,87.0,22.0,7.6,19.0,Exient Entertainment,T,Very High
+PS3,Role-Playing,Square Enix,78.0,51.0,7.5,150.0,Nippon Ichi Software,T,Very High
+PS3,Action,Konami Digital Entertainment,80.0,41.0,6.6,132.0,Konami,E,Very Low
+PSP,Action,Eidos Interactive,78.0,32.0,8.2,28.0,Crystal Dynamics,T,Very Low
+PS3,Sports,Konami Digital Entertainment,77.0,40.0,6.8,85.0,Konami,E,Very Low
+PS3,Sports,Electronic Arts,81.0,38.0,6.8,110.0,EA Canada,E,Very High
+PS2,Platform,Vivendi Games,68.0,19.0,8,6.0,Eurocom Entertainment Software,E10+,High
+PS3,Action,Ubisoft,75.0,49.0,7.6,120.0,Ubisoft Montreal,T,Very High
+X360,Action,Ubisoft,78.0,35.0,8.6,84.0,Ubisoft Montreal,T,High
+X360,Sports,Electronic Arts,75.0,30.0,7,24.0,EA Canada,E,High
+PS3,Action,Tecmo Koei,57.0,25.0,7.4,57.0,Omega Force,T,Very High
+X360,Fighting,Namco Bandai Games,83.0,35.0,7.5,90.0,Namco Bandai Games,T,High
+Wii,Simulation,Electronic Arts,65.0,15.0,7.3,4.0,Maxis,T,High
+DS,Adventure,Capcom,82.0,48.0,7.9,53.0,Capcom,E10+,Very High
+DS,Platform,Activision,79.0,21.0,6.5,17.0,Vicarious Visions,E10+,Very Low
+X360,Misc,Electronic Arts,56.0,9.0,5.8,17.0,EA Bright Light,E,High
+3DS,Role-Playing,Nippon Ichi Software,83.0,56.0,8.1,169.0,Atlus,M,High
+Wii,Simulation,Electronic Arts,73.0,19.0,8.2,10.0,Maxis,T,High
+PS3,Sports,Electronic Arts,75.0,14.0,5.7,9.0,Electronic Arts,E,Very High
+3DS,Action,Warner Bros. Interactive Entertainment,61.0,4.0,5.2,11.0,TT Games,E10+,Very Low
+PS3,Sports,Electronic Arts,75.0,17.0,7.8,6.0,EA Canada,E,Very High
+Wii,Fighting,Electronic Arts,61.0,15.0,5.6,7.0,EA Canada,T,High
+PC,Shooter,Electronic Arts,81.0,52.0,6,3517.0,EA DICE,M,Very Low
+PS3,Action,Activision,65.0,42.0,6.6,47.0,Treyarch,T,Very Low
+XOne,Action,Warner Bros. Interactive Entertainment,74.0,25.0,7.1,36.0,TT Games,E10+,Very Low
+X360,Action,Sega,54.0,56.0,7.8,44.0,Sega,M,Very Low
+PSP,Role-Playing,Capcom,72.0,38.0,8.7,83.0,Capcom,T,High
+PS3,Action,Ubisoft,70.0,30.0,6.8,19.0,Ubisoft,T,Very Low
+X360,Action,Ubisoft,74.0,69.0,7.8,112.0,Ubisoft Montreal,T,High
+3DS,Action,Disney Interactive Studios,71.0,16.0,7.3,20.0,Traveller's Tales,E10+,Very Low
+XOne,Action,Ubisoft,77.0,27.0,6.4,194.0,Ubisoft Montreal,M,Very High
+PS3,Role-Playing,Sega,64.0,49.0,6.9,117.0,Obsidian Entertainment,M,High
+X360,Role-Playing,Square Enix,79.0,50.0,6.3,268.0,Square Enix,T,High
+PSP,Sports,Electronic Arts,64.0,4.0,4.2,10.0,EA Canada,E,Very Low
+PS3,Sports,Take-Two Interactive,55.0,5.0,3.1,57.0,Yuke's,T,Very High
+PS2,Sports,Electronic Arts,63.0,9.0,8.6,7.0,EA Canada,E,Very High
+PS2,Shooter,Electronic Arts,49.0,10.0,7.4,31.0,Artificial Mind and Movement,T,Low
+X360,Action,Activision,74.0,69.0,7,173.0,Radical Entertainment,M,Very High
+Wii,Simulation,Nintendo,80.0,49.0,8,47.0,Atlus,T,Very High
+WiiU,Action,Warner Bros. Interactive Entertainment,82.0,8.0,8,71.0,TT Games,E10+,Very High
+PS3,Sports,Activision,73.0,36.0,6.6,17.0,Neversoft Entertainment,T,High
+X360,Sports,Electronic Arts,88.0,41.0,8.4,61.0,EA Canada,E10+,Very High
+PS3,Shooter,Codemasters,76.0,42.0,6.5,53.0,Codemasters,M,Very High
+PS3,Platform,Activision,83.0,31.0,5.3,33.0,Vicarious Visions,E10+,Very Low
+X360,Simulation,Ubisoft,66.0,58.0,7.9,53.0,Ubisoft,T,High
+Wii,Adventure,Ubisoft,70.0,4.0,8.1,12.0,Yuke's,E,Low
+Wii,Sports,Electronic Arts,75.0,21.0,6.2,17.0,EA Sports,E,High
+X360,Sports,Take-Two Interactive,75.0,22.0,6.8,52.0,Visual Concepts,E10+,Very High
+PC,Strategy,Sega,90.0,62.0,8.3,1180.0,Creative Assembly,T,Very Low
+X360,Shooter,Ubisoft,78.0,46.0,6.2,80.0,Ubisoft Montreal,M,Very High
+3DS,Strategy,Ubisoft,44.0,18.0,5.3,9.0,Ubisoft,E10+,High
+PS3,Action,Activision,74.0,57.0,7.5,96.0,Beenox,T,Very High
+DS,Misc,Ubisoft,71.0,7.0,6.8,5.0,Ubisoft,E,High
+GBA,Adventure,Disney Interactive Studios,70.0,8.0,5.6,5.0,Amaze Entertainment,E10+,Very Low
+Wii,Action,Electronic Arts,69.0,34.0,7.2,28.0,EA Games,E10+,High
+X360,Simulation,Sega,71.0,60.0,7,72.0,From Software,T,High
+3DS,Role-Playing,Atlus,83.0,48.0,8.3,251.0,Atlus,M,High
+XB,Action,Vivendi Games,76.0,41.0,8.4,46.0,Radical Entertainment,M,Very Low
+X360,Sports,Activision,72.0,59.0,5.4,44.0,Neversoft Entertainment,T,Low
+XB,Sports,Electronic Arts,76.0,6.0,6,4.0,EA Tiburon,E,Very High
+PC,Shooter,Activision,91.0,62.0,6.8,4052.0,Blizzard Entertainment,T,Very Low
+WiiU,Shooter,Activision,81.0,31.0,6.9,228.0,Treyarch,M,Very High
+PS3,Sports,Take-Two Interactive,80.0,20.0,7.4,8.0,Visual Concepts,E,Low
+XOne,Shooter,Take-Two Interactive,80.0,11.0,7.8,119.0,Gearbox Software,M,Very High
+X360,Action,Electronic Arts,68.0,38.0,6.8,20.0,EA Games,E10+,Very Low
+PS3,Adventure,Konami Digital Entertainment,93.0,4.0,9,255.0,Konami,M,Very Low
+X360,Simulation,Konami Digital Entertainment,65.0,6.0,7.7,7.0,Konami,E,High
+WiiU,Misc,Ubisoft,72.0,13.0,7.6,45.0,Ubisoft,E10+,Very Low
+PS3,Sports,Electronic Arts,88.0,38.0,7.1,54.0,Electronic Arts,E10+,Very High
+XOne,Misc,Ubisoft,66.0,10.0,6.1,18.0,Ubisoft,E10+,Very Low
+XOne,Misc,Ubisoft,70.0,17.0,7.5,20.0,Ubisoft,E10+,Very Low
+PS4,Sports,Take-Two Interactive,62.0,44.0,5.1,164.0,Yuke's,T,High
+PC,Role-Playing,Electronic Arts,85.0,45.0,5.9,3926.0,BioWare,M,Very Low
+PSP,Racing,Electronic Arts,57.0,14.0,7.1,19.0,EA Games,E,Low
+Wii,Sports,Electronic Arts,73.0,17.0,7.3,8.0,EA Sports,E,Very High
+PS3,Shooter,Sega,84.0,61.0,8.1,304.0,PlatinumGames,M,Very High
+PC,Shooter,Ubisoft,88.0,43.0,8.2,3183.0,Ubisoft Montreal,M,Very Low
+WiiU,Shooter,Activision,69.0,6.0,3.4,256.0,Treyarch,M,Very High
+Wii,Racing,Electronic Arts,70.0,12.0,8.1,9.0,Electronic Arts,E,High
+PS3,Fighting,Electronic Arts,84.0,52.0,7.3,95.0,EA Canada,M,Very High
+PS3,Shooter,Sega,65.0,57.0,7.3,168.0,Rebellion,M,Very High
+Wii,Action,Disney Interactive Studios,61.0,11.0,6,5.0,Eurocom Entertainment Software,E10+,High
+Wii,Sports,Nintendo,76.0,51.0,8,322.0,Nintendo,E,Very Low
+Wii,Shooter,Activision,80.0,25.0,5.8,87.0,Treyarch,M,Very Low
+Wii,Sports,Nintendo,80.0,33.0,7.4,52.0,Nintendo,E,Very Low
+XOne,Sports,Electronic Arts,82.0,33.0,5.4,347.0,EA Sports,E,Very High
+PS4,Shooter,Ubisoft,73.0,40.0,7.3,480.0,Ubisoft Montreal,M,Very High
+PS3,Shooter,Ubisoft,90.0,32.0,8.5,1041.0,Ubisoft Montreal,M,Very High
+Wii,Misc,MTV Games,89.0,25.0,8.9,43.0,Harmonix Music Systems,T,Very High
+X360,Action,Electronic Arts,90.0,48.0,6.1,403.0,Electronic Arts,E,Very High
+X360,Sports,Take-Two Interactive,84.0,32.0,7.2,44.0,Visual Concepts,E,Low
+PS4,Sports,Take-Two Interactive,83.0,50.0,7,291.0,Visual Concepts,E,Very High
+X360,Role-Playing,Square Enix,82.0,54.0,6.3,539.0,Square Enix,T,High
+PS2,Action,Warner Bros. Interactive Entertainment,77.0,8.0,8.9,17.0,Traveller's Tales,E10+,Low
+PS4,Action,Ubisoft,83.0,29.0,7.8,1530.0,Ubisoft,M,Very High
+X360,Action,Disney Interactive Studios,73.0,54.0,7,31.0,Traveller's Tales,E10+,Very Low
+PS3,Shooter,Electronic Arts,80.0,14.0,5.8,579.0,EA DICE,M,Very High
+PS4,Shooter,Activision,90.0,31.0,6.1,1358.0,Blizzard Entertainment,T,High
+PS3,Role-Playing,Sega,86.0,60.0,8.6,433.0,Sega,T,Very High
+Wii,Sports,Electronic Arts,79.0,8.0,8.1,22.0,EA Canada,E,High
+X360,Shooter,Electronic Arts,79.0,21.0,5.6,542.0,EA DICE,M,Very High
+PS3,Role-Playing,Activision,86.0,43.0,6.4,557.0,Blizzard Entertainment,M,High
+PS3,Shooter,Activision,71.0,10.0,2.6,1047.0,Infinity Ward,M,Very High
+PS3,Action,Electronic Arts,88.0,37.0,6.6,348.0,Electronic Arts,E,Very High
+X360,Action,Ubisoft,80.0,77.0,7.2,564.0,Ubisoft Montreal,M,Very High
+PS3,Sports,Electronic Arts,83.0,22.0,5.5,101.0,EA Tiburon,E,Very High
+PS2,Action,LucasArts,84.0,32.0,9,41.0,Traveller's Tales,E10+,Low
+PS2,Role-Playing,Square Enix,92.0,64.0,7.6,972.0,Square Enix,T,High
+PS3,Action,Electronic Arts,75.0,69.0,7.5,265.0,Visceral Games,M,Very High
+X360,Role-Playing,Electronic Arts,93.0,74.0,5.8,3725.0,BioWare,M,High
+DS,Action,Electronic Arts,69.0,17.0,7.3,18.0,Griptonite Games,T,Very Low
+X360,Sports,Ubisoft,73.0,32.0,7.5,25.0,Ubisoft Montreal,E,Low
+X360,Misc,MTV Games,82.0,63.0,7.6,85.0,Harmonix Music Systems,T,High
+PS3,Action,THQ,86.0,30.0,7.4,92.0,Yuke's,T,Very High
+DS,Role-Playing,Sega,74.0,55.0,7.3,81.0,BioWare,E,High
+Wii,Action,LucasArts,71.0,18.0,7.9,75.0,Krome Studios,T,High
+X360,Sports,Electronic Arts,85.0,58.0,6.1,90.0,EA Tiburon,E,Very High
+Wii,Misc,Nintendo,63.0,43.0,4.6,116.0,Nintendo,E,Very Low
+PS3,Misc,Activision,70.0,39.0,5,26.0,Neversoft Entertainment,T,Low
+Wii,Sports,Electronic Arts,88.0,44.0,8.8,57.0,EA Tiburon,E,Very Low
+PS2,Shooter,Activision,82.0,14.0,7.4,83.0,Treyarch,T,High
+Wii,Sports,Namco Bandai Games,67.0,32.0,8.5,12.0,Bandai Namco Games,E,Low
+PS3,Action,Warner Bros. Interactive Entertainment,79.0,42.0,8,52.0,Traveller's Tales,E10+,Very High
+PS4,Sports,Electronic Arts,83.0,37.0,5.9,180.0,EA Sports,E,Very High
+Wii,Platform,Sega,78.0,58.0,8.5,301.0,Sonic Team,E,Very Low
+Wii,Misc,Ubisoft,76.0,54.0,7.9,116.0,Ubisoft Montpellier,E,Very Low
+X360,Action,Electronic Arts,89.0,79.0,8.7,768.0,EA Redwood Shores,M,Very High
+X360,Sports,Electronic Arts,81.0,30.0,7.8,44.0,EA Sports,E,Low
+XOne,Sports,Take-Two Interactive,82.0,9.0,6.3,101.0,Visual Concepts,E,Very High
+PS3,Action,Konami Digital Entertainment,94.0,82.0,8.7,3558.0,Kojima Productions,M,Very Low
+PS3,Sports,Electronic Arts,80.0,41.0,7.3,17.0,Electronic Arts,E,High
+X360,Action,THQ,81.0,75.0,8.1,307.0,Volition Inc.,M,Very High
+Wii,Action,LucasArts,76.0,7.0,7.7,10.0,Traveller's Tales,E10+,High
+X360,Sports,Electronic Arts,86.0,29.0,7.1,70.0,EA Tiburon,E,Very High
+PC,Role-Playing,Activision,90.0,53.0,5.6,953.0,Blizzard Entertainment,T,Very Low
+PS3,Action,Ubisoft,90.0,59.0,8.2,791.0,Ubisoft Montreal,M,Very High
+X360,Misc,Activision,92.0,55.0,8.1,220.0,Harmonix Music Systems,T,High
+PS3,Adventure,Ubisoft,81.0,40.0,7.3,769.0,Ubisoft Montreal,M,Very High
+X360,Fighting,Electronic Arts,87.0,76.0,8.1,86.0,EA Canada,T,High
+PS4,Sports,Electronic Arts,82.0,47.0,5.7,988.0,EA Sports,E,Very High
+PC,Strategy,Take-Two Interactive,90.0,70.0,7.9,2280.0,Firaxis Games,E10+,Very Low
+X360,Sports,Electronic Arts,83.0,26.0,6.7,37.0,EA Tiburon,E,Low
+Wii,Sports,Ubisoft,62.0,5.0,5.2,54.0,Ubisoft,E,Very Low
+Wii,Sports,Electronic Arts,77.0,23.0,7.2,24.0,EA Tiburon,E,Very High
+X360,Action,Ubisoft,90.0,82.0,8.8,1305.0,Ubisoft Montreal,M,Very High
+3DS,Action,LucasArts,67.0,25.0,6.1,31.0,Traveller's Tales,E10+,Very Low
+PS3,Sports,Electronic Arts,83.0,36.0,6.1,68.0,EA Tiburon,E,Very High
+PS3,Fighting,Capcom,84.0,56.0,7.3,147.0,Capcom,T,Very High
+Wii,Racing,Electronic Arts,61.0,16.0,6.9,14.0,EA Games,E10+,Very High
+PS3,Action,THQ,76.0,24.0,8.1,99.0,THQ,T,Very High
+PS3,Sports,Electronic Arts,81.0,31.0,5.3,33.0,EA Tiburon,E,Low
+X360,Misc,Activision,76.0,52.0,5,30.0,Neversoft Entertainment,E10+,Very Low
+PSP,Racing,THQ,68.0,22.0,8.1,7.0,Rainbow Studios,E,High
+PS4,Sports,Electronic Arts,81.0,37.0,6.1,208.0,EA Sports,E,Very High
+Wii,Sports,Nintendo,69.0,31.0,7.8,58.0,Namco Bandai Games,E,Very Low
+PS3,Sports,Sony Computer Entertainment,85.0,33.0,8.7,76.0,SCEA San Diego Studios,E,Very High
+WiiU,Platform,Nintendo,88.0,85.0,8.7,691.0,Nintendo,E,Very High
+X360,Sports,Electronic Arts,83.0,24.0,7.7,26.0,EA Tiburon,E,Low
+Wii,Sports,Electronic Arts,66.0,32.0,7.6,30.0,EA Canada,E,Low
+X360,Action,THQ,81.0,74.0,7.5,211.0,Volition Inc.,M,Very High
+X360,Role-Playing,Electronic Arts,96.0,98.0,8.9,3143.0,BioWare,M,High
+X360,Misc,Ubisoft,63.0,31.0,6.8,29.0,Ubisoft Montreal,E10+,Very Low
+PS3,Role-Playing,Electronic Arts,93.0,30.0,5.5,1849.0,BioWare,M,High
+X360,Fighting,THQ,84.0,70.0,6.7,80.0,Yuke's,T,High
+PS3,Role-Playing,Namco Bandai Games,89.0,81.0,8.9,1441.0,From Software,M,High
+PS2,Sports,Electronic Arts,84.0,29.0,8.2,39.0,EA Sports,E,Low
+3DS,Simulation,Nintendo,66.0,60.0,6.9,106.0,Nintendo,E,Very High
+X360,Action,LucasArts,81.0,50.0,8,45.0,Traveller's Tales,E10+,Very Low
+PSP,Fighting,Square Enix,79.0,61.0,8,139.0,Square Enix,T,High
+Wii,Platform,Sega,69.0,44.0,6.6,174.0,Sonic Team,E,Very Low
+PS3,Sports,Take-Two Interactive,90.0,26.0,8,99.0,Visual Concepts,E,Very High
+Wii,Misc,Ubisoft,74.0,24.0,7.3,24.0,Ubisoft,E10+,Very High
+DS,Platform,Sega,70.0,24.0,7.5,28.0,Creative Assembly,E,Low
+WiiU,Platform,Nintendo,77.0,59.0,7.9,288.0,Nintendo,E,Very High
+X360,Role-Playing,Activision,73.0,75.0,7.3,82.0,Vicarious Visions,T,High
+PS3,Sports,Sony Computer Entertainment,91.0,33.0,8.3,107.0,SCEA,E,Very High
+PS3,Sports,Electronic Arts,78.0,20.0,5.4,14.0,EA Canada,E,High
+X360,Action,Warner Bros. Interactive Entertainment,69.0,8.0,7.2,26.0,TT Games,E10+,Very Low
+X360,Action,Activision,77.0,60.0,7.5,66.0,Traveller's Tales,E10+,Very High
+PS2,Sports,Electronic Arts,87.0,18.0,8.6,23.0,EA Sports,E,Low
+Wii,Adventure,Electronic Arts,78.0,28.0,8.6,28.0,Electronic Arts,E,Very High
+X360,Shooter,Capcom,79.0,76.0,7.1,187.0,Capcom,T,High
+XOne,Shooter,Electronic Arts,81.0,5.0,6.6,480.0,EA DICE,M,Very High
+DS,Simulation,Electronic Arts,65.0,20.0,6.5,21.0,Griptonite Games,E,Low
+Wii,Sports,Electronic Arts,81.0,18.0,8.7,34.0,EA Tiburon,E,Very High
+PC,Simulation,Electronic Arts,70.0,74.0,3.9,2057.0,Maxis,T,Very Low
+PS3,Sports,Electronic Arts,77.0,9.0,6.2,40.0,EA Tiburon,E,Low
+X360,Misc,Sega,79.0,45.0,8.5,40.0,Backbone Entertainment,E10+,Very Low
+Wii,Simulation,Ubisoft,57.0,11.0,6.7,28.0,Ubisoft,T,Very High
+DS,Racing,THQ,69.0,7.0,6.8,5.0,Rainbow Studios,E,High
+PS2,Sports,Electronic Arts,83.0,6.0,8.3,23.0,EA Tiburon,E,Low
+PS3,Shooter,Activision,80.0,43.0,6.9,92.0,Treyarch,T,Very High
+Wii,Misc,Nintendo,58.0,41.0,6.6,129.0,Nintendo,E,Very Low
+WiiU,Platform,Nintendo,84.0,70.0,8.1,733.0,Nintendo,E,Very High
+PS3,Shooter,Electronic Arts,85.0,38.0,7.5,1761.0,EA DICE,M,Very High
+X360,Shooter,Activision,82.0,71.0,6.5,233.0,Treyarch,T,High
+PS3,Sports,Take-Two Interactive,82.0,30.0,7,37.0,Visual Concepts,E,Low
+PS4,Sports,Electronic Arts,87.0,26.0,6.3,616.0,EA Canada,E,Very High
+X360,Fighting,THQ,71.0,52.0,6.3,89.0,Yuke's,T,High
+X360,Misc,Activision,85.0,69.0,6.8,108.0,Neversoft Entertainment,T,High
+PS3,Sports,Electronic Arts,79.0,31.0,5.5,56.0,EA Tiburon,E,Very High
+Wii,Racing,Nintendo,82.0,73.0,8.3,709.0,Nintendo,E,Very Low
+Wii,Simulation,Electronic Arts,76.0,19.0,8.1,24.0,EA Redwood Shores,E,Very High
+X360,Sports,Electronic Arts,84.0,47.0,5.7,120.0,EA Tiburon,E,Very High
+3DS,Role-Playing,Nintendo,86.0,80.0,8.7,348.0,Capcom,T,High
+X360,Sports,Electronic Arts,90.0,63.0,7.5,133.0,EA Sports,E,Very High
+X360,Shooter,Activision,94.0,70.0,8.4,1320.0,Infinity Ward,M,Very High
+XOne,Shooter,Electronic Arts,71.0,27.0,5.1,299.0,Visceral Games,M,Very High
+X360,Fighting,THQ,83.0,68.0,7.9,51.0,Yuke's,T,Low
+X360,Sports,Electronic Arts,83.0,50.0,7,125.0,EA Tiburon,E,Very High
+PS3,Misc,Sega,80.0,35.0,8.6,43.0,Backbone Entertainment,E10+,Very Low
+PS2,Sports,Electronic Arts,76.0,27.0,9,18.0,EA Canada,E,High
+PS3,Action,Activision,79.0,53.0,7.7,308.0,Radical Entertainment,M,Very High
+PS3,Sports,Sony Computer Entertainment,87.0,23.0,7.5,75.0,SCEA San Diego Studios,E,Very High
+X360,Action,Eidos Interactive,76.0,57.0,6.6,198.0,Crystal Dynamics,T,High
+X360,Fighting,THQ,80.0,59.0,8.4,36.0,Yuke's,T,Low
+Wii,Sports,Nintendo,80.0,63.0,7.7,146.0,Nintendo,E,Very Low
+3DS,Platform,Nintendo,90.0,82.0,8.4,921.0,Nintendo,E,Very High
+X360,Misc,MTV Games,89.0,76.0,8.6,127.0,Harmonix Music Systems,T,High
+PS4,Sports,Take-Two Interactive,87.0,51.0,6.7,364.0,Visual Concepts,E10+,Very High
+XOne,Shooter,Ubisoft,82.0,15.0,7.5,383.0,Ubisoft Montreal,M,Very High
+PS3,Sports,Take-Two Interactive,84.0,26.0,4.9,142.0,Visual Concepts,E,Very High
+DS,Simulation,Electronic Arts,67.0,15.0,7.3,13.0,TOSE,E,Low
+PS3,Fighting,THQ,74.0,27.0,7.3,41.0,Yuke's,T,Low
+3DS,Simulation,Nintendo,88.0,70.0,8.7,626.0,Nintendo,E,Very High
+PS2,Sports,Electronic Arts,67.0,4.0,7,24.0,EA Tiburon,E,Low
+PS4,Action,Warner Bros. Interactive Entertainment,74.0,58.0,7.9,1287.0,Techland,M,Very High
+PS3,Sports,Sony Computer Entertainment,90.0,30.0,7.8,87.0,SCEA San Diego Studios,E,Very High
+X360,Shooter,Electronic Arts,88.0,75.0,8.6,869.0,EA DICE,M,Very High
+X360,Action,Warner Bros. Interactive Entertainment,80.0,37.0,7.6,127.0,TT Games,E10+,Very High
+PS4,Shooter,Electronic Arts,73.0,46.0,5,845.0,Visceral Games,M,Very High
+PS4,Sports,Electronic Arts,82.0,35.0,4.9,83.0,EA Sports,E,Very High
+PS2,Sports,Electronic Arts,63.0,12.0,6,39.0,EA Sports,E,Low
+Wii,Simulation,Nintendo,73.0,50.0,7.6,119.0,Nintendo,E,Very Low
+PS3,Action,Deep Silver,71.0,41.0,6.6,405.0,Techland,M,Very High
+X360,Shooter,Activision,87.0,89.0,6.3,1454.0,Treyarch,M,Very High
+PS3,Fighting,Namco Bandai Games,79.0,63.0,7.4,211.0,Namco Bandai Games,T,Very High
+Wii,Racing,Ubisoft,51.0,11.0,7.8,17.0,Ubisoft,E,High
+PS3,Shooter,Ubisoft,81.0,32.0,7.9,93.0,Ubisoft Montreal,M,Very High
+X360,Sports,Take-Two Interactive,82.0,46.0,7.6,34.0,Visual Concepts,E,Low
+X360,Shooter,Activision,84.0,84.0,7.6,580.0,Treyarch,M,Very High
+XOne,Sports,Electronic Arts,83.0,30.0,5.9,39.0,EA Sports,E,Low
+X360,Shooter,Electronic Arts,84.0,57.0,7.4,2142.0,EA DICE,M,Very High
+Wii,Misc,Ubisoft,74.0,10.0,7.3,28.0,Ubisoft,E10+,Very High
+PS4,Shooter,Ubisoft,85.0,83.0,7.7,1653.0,Ubisoft Montreal,M,Very High
+PS3,Action,Electronic Arts,88.0,67.0,8.8,545.0,EA Redwood Shores,M,Very High
+X360,Misc,Activision,70.0,59.0,6.7,48.0,Neversoft Entertainment,T,Low
+X360,Action,Warner Bros. Interactive Entertainment,79.0,59.0,7.2,114.0,TT Games,E10+,Very High
+PS2,Sports,Electronic Arts,79.0,33.0,6,8.0,EA Redwood Shores,E,Very High
+PS3,Action,Warner Bros. Interactive Entertainment,81.0,28.0,7.5,81.0,Traveller's Tales,E10+,Very High
+PS3,Action,LucasArts,80.0,18.0,6.7,87.0,Traveller's Tales,E10+,Very High
+X360,Sports,Electronic Arts,77.0,32.0,7.4,14.0,EA Canada,E,High
+PS3,Shooter,Take-Two Interactive,83.0,58.0,7.9,427.0,Gearbox Software,M,Very High
+Wii,Action,LucasArts,56.0,24.0,6.7,18.0,Krome Studios,T,High
+X360,Action,Take-Two Interactive,89.0,50.0,8.1,100.0,Visual Concepts,E,Very High
+Wii,Action,Activision,72.0,13.0,6.1,14.0,Traveller's Tales,E10+,High
+PS4,Shooter,Activision,78.0,49.0,3.7,1564.0,Infinity Ward,M,Very High
+PS3,Shooter,Electronic Arts,84.0,50.0,8.1,203.0,EA DICE,T,Very High
+X360,Misc,MTV Games,93.0,57.0,8.2,137.0,Harmonix Music Systems,T,High
+X360,Racing,Electronic Arts,83.0,54.0,8.5,134.0,EA Canada,T,High
+PS3,Racing,THQ,74.0,44.0,7.4,10.0,Rainbow Studios,E,High
+X360,Sports,Electronic Arts,88.0,52.0,8.4,71.0,EA Canada,E10+,Very High
+WiiU,Action,Nintendo,76.0,81.0,8.3,662.0,Omega Force,T,High
+Wii,Action,Warner Bros. Interactive Entertainment,79.0,13.0,8,34.0,Traveller's Tales,E10+,High
+X360,Misc,Ubisoft,79.0,16.0,7.8,33.0,Ubisoft,E10+,Very Low
+X360,Action,Ubisoft,84.0,61.0,6.7,1196.0,Ubisoft,M,Very High
+PS3,Misc,MTV Games,91.0,24.0,7.9,88.0,Harmonix Music Systems,T,Very High
+X360,Action,Sega,90.0,86.0,8,597.0,PlatinumGames,M,Very High
+GC,Racing,THQ,71.0,21.0,7,5.0,Rainbow Studios,E,High
+PC,Role-Playing,Activision,88.0,86.0,4,9629.0,Blizzard Entertainment,M,Very Low
+X360,Action,Ubisoft,89.0,81.0,8.3,693.0,Ubisoft Montreal,M,Very High
+XOne,Shooter,Activision,78.0,17.0,3.1,290.0,Infinity Ward,M,Very High
+X360,Action,Capcom,84.0,61.0,8,248.0,Capcom,M,Very High
+X360,Sports,Electronic Arts,86.0,56.0,7,72.0,Electronic Arts,E10+,Very High
+PS3,Sports,Electronic Arts,82.0,17.0,5.8,41.0,EA Sports,E,Low
+PS2,Platform,Activision,50.0,14.0,6.5,28.0,Vicarious Visions,T,Low
+XOne,Shooter,Electronic Arts,87.0,37.0,8.2,440.0,EA DICE,M,Very High
+PS3,Fighting,THQ,72.0,28.0,6.9,80.0,Yuke's,T,Very High
+PS3,Sports,Take-Two Interactive,83.0,30.0,7.8,39.0,Visual Concepts,E,Low
+X360,Action,THQ,84.0,70.0,7.6,490.0,Volition Inc.,M,Very High
+DS,Misc,Activision,72.0,40.0,8,5.0,Vicarious Visions,E10+,High
+Wii,Platform,Sega,66.0,30.0,7.3,136.0,Sonic Team,E10+,Very Low
+PS3,Role-Playing,Electronic Arts,87.0,41.0,7.9,597.0,BioWare,M,High
+DS,Platform,Nintendo,75.0,25.0,8.4,26.0,TOSE,E,Low
+PS3,Shooter,Take-Two Interactive,91.0,25.0,8.2,858.0,Gearbox Software,M,Very High
+PS3,Sports,Take-Two Interactive,90.0,38.0,6.7,127.0,Visual Concepts,E,Very High
+PS3,Sports,Electronic Arts,85.0,22.0,7.4,25.0,EA Tiburon,E,Low
+X360,Fighting,THQ,79.0,47.0,7.1,34.0,Yuke's,T,Low
+XOne,Action,Ubisoft,78.0,15.0,5.8,712.0,Ubisoft Montreal,M,Very High
+X360,Action,Ubisoft,86.0,35.0,7.9,701.0,Ubisoft,M,Very High
+X360,Role-Playing,Ubisoft,82.0,33.0,8.4,363.0,Obsidian Entertainment,M,High
+PS3,Platform,Sega,54.0,24.0,7.9,130.0,Sonic Team,E10+,Very High
+X360,Misc,Ubisoft,70.0,34.0,7.7,17.0,Ubisoft,E10+,Very Low
+PSP,Sports,Electronic Arts,68.0,8.0,6.5,4.0,EA Tiburon,E,Very High
+DS,Action,Nintendo,87.0,75.0,7.8,228.0,Nintendo,E10+,Very High
+X360,Action,Ubisoft,81.0,73.0,7,189.0,Ubisoft Montreal,T,High
+Wii,Sports,Electronic Arts,81.0,27.0,8.7,39.0,EA Canada,E,Low
+X360,Misc,Activision,85.0,69.0,7.9,165.0,Neversoft Entertainment,T,High
+XOne,Sports,Take-Two Interactive,86.0,14.0,6.2,115.0,Visual Concepts,E10+,Very High
+DS,Puzzle,Nintendo,79.0,51.0,7.7,18.0,Nintendo,E,Low
+XB,Sports,Electronic Arts,83.0,27.0,8.7,6.0,EA Tiburon,E,Very High
+PSP,Racing,Sega,64.0,25.0,7.8,38.0,Backbone Entertainment,E,Low
+X360,Action,Square Enix,79.0,51.0,7.1,453.0,Io Interactive,M,Very High
+PS3,Shooter,Capcom,74.0,34.0,5.4,1304.0,Capcom,M,Very High
+X360,Action,Activision,65.0,69.0,7.1,71.0,Treyarch,T,High
+X360,Misc,Ubisoft,77.0,30.0,8.2,62.0,Ubisoft,T,High
+PSP,Shooter,LucasArts,73.0,35.0,7.9,46.0,Rebellion,T,Low
+Wii,Misc,MTV Games,91.0,10.0,6.9,36.0,Backbone Entertainment,T,Very High
+GC,Action,LucasArts,84.0,25.0,9.1,16.0,Traveller's Tales,E10+,Very Low
+PC,Shooter,Electronic Arts,89.0,61.0,7.5,4926.0,EA DICE,M,Very Low
+X360,Role-Playing,Electronic Arts,86.0,68.0,7.9,725.0,BioWare,M,High
+3DS,Action,Nintendo,73.0,73.0,7.6,179.0,Nintendo,E,Very High
+PS3,Sports,Sony Computer Entertainment,87.0,36.0,7.8,114.0,SCEA San Diego Studios,E,Very High
+PS3,Fighting,THQ,84.0,58.0,8.1,47.0,THQ,T,Low
+PS4,Action,Sony Computer Entertainment,92.0,100.0,8.6,6383.0,From Software,M,Very High
+PS3,Platform,Sega,76.0,38.0,8.2,253.0,Sega,E,Very High
+X360,Shooter,Ubisoft,82.0,66.0,7.8,176.0,Ubisoft Montreal,M,Very High
+X360,Sports,Take-Two Interactive,87.0,23.0,4.9,150.0,Visual Concepts,E,Very High
+PS3,Role-Playing,Electronic Arts,94.0,62.0,8.5,1081.0,BioWare,M,High
+PS3,Misc,Activision,83.0,45.0,7.8,52.0,Neversoft Entertainment,T,Very High
+Wii,Misc,MTV Games,92.0,10.0,7.7,45.0,Harmonix Music Systems,T,Very High
+Wii,Sports,Electronic Arts,76.0,29.0,6.8,27.0,EA Tiburon,E,Very High
+X360,Shooter,Capcom,67.0,71.0,5,1407.0,Capcom,M,Very High
+PS2,Sports,Take-Two Interactive,72.0,7.0,6,9.0,Visual Concepts,E,Low
+X360,Misc,Activision,85.0,67.0,6.3,171.0,Neversoft Entertainment,T,High
+X360,Racing,Electronic Arts,77.0,52.0,6.3,82.0,EA Canada,E10+,Very High
+X360,Action,Activision,71.0,41.0,7.4,25.0,Traveller's Tales,E10+,Very Low
+PS2,Action,Vivendi Games,75.0,46.0,8.6,113.0,Radical Entertainment,M,Very High
+PC,Shooter,Activision,74.0,11.0,4.2,1635.0,Treyarch,M,Very Low
+XOne,Action,Warner Bros. Interactive Entertainment,74.0,26.0,7.8,387.0,Techland,M,Very High
+X360,Action,LucasArts,75.0,43.0,7.8,42.0,Traveller's Tales,E10+,Very Low
+3DS,Fighting,Capcom,85.0,69.0,8.1,206.0,Capcom,T,High
+PS3,Action,Capcom,84.0,63.0,8.2,311.0,Capcom,M,Very High
+PS4,Shooter,Electronic Arts,88.0,31.0,8.4,809.0,EA DICE,M,Very High
+3DS,Action,Square Enix,75.0,54.0,8.2,267.0,Square Enix,E10+,Very High
+PSP,Racing,Electronic Arts,73.0,14.0,7.9,39.0,EA Canada,E10+,Very Low
+Wii,Misc,Activision,86.0,18.0,7.6,71.0,Vicarious Visions,T,High
+PSP,Role-Playing,Square Enix,82.0,62.0,8.6,208.0,Square Enix,E10+,High
+PS3,Misc,MTV Games,88.0,60.0,8.7,59.0,Harmonix Music Systems,T,Very High
+Wii,Simulation,Electronic Arts,68.0,38.0,7.2,56.0,EA Redwood Shores,E,Very Low
+X360,Sports,Electronic Arts,78.0,55.0,5.9,94.0,EA Tiburon,E,Very High
+Wii,Shooter,Nintendo,68.0,34.0,7.1,47.0,Nintendo,T,Very High
+PS2,Sports,Sony Computer Entertainment,83.0,25.0,8.6,19.0,SCEA,E,Low
+PS2,Action,LucasArts,77.0,12.0,8.4,16.0,Traveller's Tales,E10+,Low
+PS3,Shooter,Electronic Arts,89.0,78.0,8.4,535.0,Visceral Games,M,Very High
+X360,Action,THQ,85.0,60.0,7.6,88.0,Yuke's,T,High
+PS3,Sports,Electronic Arts,81.0,20.0,7.3,25.0,EA Tiburon,E,Low
+PS3,Misc,Activision,86.0,54.0,5.7,87.0,Neversoft Entertainment,T,Very High
+PC,Strategy,Activision,93.0,82.0,8.2,3052.0,Blizzard Entertainment,T,Very Low
+X360,Sports,Electronic Arts,88.0,66.0,7.5,155.0,EA Sports,E,Very High
+X360,Sports,Electronic Arts,82.0,25.0,6.6,49.0,EA Sports,E,Low
+X360,Action,LucasArts,80.0,24.0,7.4,114.0,Traveller's Tales,E10+,Very High
+Wii,Sports,Electronic Arts,70.0,37.0,8.4,25.0,Electronic Arts,E,Very High
+3DS,Action,Nintendo,91.0,81.0,8.9,1057.0,Nintendo,E,Very High
+PS3,Action,Ubisoft,88.0,36.0,8.1,840.0,Ubisoft,M,Very High
+WiiU,Platform,Nintendo,93.0,83.0,9,1607.0,Nintendo,E,Very High
+PS2,Fighting,THQ,78.0,9.0,6.9,34.0,Yuke's,T,Low
+X360,Action,Warner Bros. Interactive Entertainment,76.0,49.0,7.9,75.0,Traveller's Tales,E10+,Very High
+X360,Shooter,Take-Two Interactive,84.0,83.0,8.2,715.0,Gearbox Software,M,Very High
+Wii,Misc,Sega,74.0,53.0,5.7,72.0,Sega,E,Very Low
+X360,Action,Electronic Arts,73.0,71.0,7.7,224.0,Visceral Games,M,Very High
+PS4,Role-Playing,Electronic Arts,89.0,43.0,7.4,1984.0,BioWare,M,High
+XOne,Sports,Electronic Arts,84.0,23.0,6.1,124.0,EA Sports,E,Very High
+PS3,Shooter,Activision,94.0,44.0,8.4,993.0,Infinity Ward,M,Very High
+PS3,Action,Ubisoft,80.0,39.0,7.5,613.0,Ubisoft Montreal,M,Very High
+X360,Sports,Electronic Arts,80.0,32.0,5.6,136.0,EA Sports,E,Very High
+DS,Action,Nintendo,90.0,57.0,8,416.0,Nintendo,E,Very High
+X360,Action,Electronic Arts,78.0,68.0,6.4,694.0,Visceral Games,M,Very High
+PS2,Simulation,Konami Digital Entertainment,55.0,6.0,6.2,6.0,Konami,E10+,High
+PS3,Misc,Activision,84.0,43.0,7.5,80.0,Neversoft Entertainment,T,Very High
+PS3,Sports,Electronic Arts,76.0,19.0,4.1,91.0,EA Sports,E,Very High
+GC,Action,Nintendo,96.0,16.0,9.2,568.0,Nintendo,T,High
+PS3,Action,Ubisoft,91.0,70.0,8.6,1202.0,Ubisoft Montreal,M,Very High
+3DS,Platform,Nintendo,78.0,70.0,7.2,424.0,Nintendo,E,Very High
+PSP,Action,LucasArts,83.0,11.0,8.6,26.0,Traveller's Tales,E10+,Very Low
+PS4,Role-Playing,Namco Bandai Games,89.0,69.0,8.8,1940.0,From Software,M,High
+XOne,Adventure,Square Enix,86.0,102.0,8,1288.0,Crystal Dynamics,M,Very High
+PS3,Action,Warner Bros. Interactive Entertainment,82.0,22.0,7.9,76.0,TT Games,E10+,Very High
+PS4,Shooter,Electronic Arts,85.0,18.0,6.9,1580.0,EA DICE,M,Very High
+XOne,Sports,Electronic Arts,84.0,45.0,4.4,459.0,EA Sports,E,Very High
+X360,Shooter,Electronic Arts,90.0,83.0,8.6,679.0,Visceral Games,M,Very High
+DS,Misc,Nintendo,83.0,48.0,9,63.0,Nintendo,E,Very High
+WiiU,Action,Ubisoft,77.0,70.0,7.7,758.0,Ubisoft Montpellier,M,Very High
+PC,Strategy,Activision,86.0,68.0,7.9,1346.0,Blizzard Entertainment,T,Very Low
+PS4,Action,Ubisoft,80.0,80.0,6.3,2996.0,Ubisoft Montreal,M,Very High
